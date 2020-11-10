@@ -1,0 +1,9 @@
+{
+    "id":"Main",
+    "name":"JackboxTalks Main",
+    "types":[
+        "JackboxTalksTitle",
+        "JackboxTalksSignpost",
+        "JackboxTalksPicture"
+    ]
+}

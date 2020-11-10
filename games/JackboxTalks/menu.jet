@@ -1,0 +1,29 @@
+{
+    "localized" : "true",
+    "items": [
+        {
+            "title":"PLAY_NORMAL",
+            "action":"doPlayGameNormal",
+            "description":"PLAY_NORMAL_DESCRIPTION",
+            "value":0
+        },
+        {
+            "title":"PLAY_FREE_PLAY",
+            "action":"doPlayGameFreePlay",
+            "description":"PLAY_FREE_PLAY_DESCRIPTION",
+            "value":1
+        },
+        {
+            "title":"SETTINGS",
+            "action":"doSettings",
+            "description":"SETTINGS_DESCRIPTION",
+            "value":2
+        },
+        {
+            "title":"BACK_TO_PACK",
+            "action":"doBackToPack",
+            "description":"BACK_TO_PACK_DESCRIPTION",
+            "value":3
+        }
+    ]
+}
