@@ -1,0 +1,163 @@
+{
+    "rows": 8,
+    "items": [
+        {
+            "title": "VOLUME",
+            "type": "Range",
+            "clip": "WorldChampionsSliderWidget",
+            "source": "Volume",
+            "step": 0.1,
+            "description": "VOLUME_DESCRIPTION"
+        },
+        {
+            "title": "VOLUME_HOST",
+            "type": "Range",
+            "clip": "WorldChampionsSliderWidget",
+            "source": "VolumeHost",
+            "step": 0.1,
+            "description": "VOLUME_HOST_DESCRIPTION"
+        },
+        {
+            "title": "VOLUME_SFX",
+            "type": "Range",
+            "clip": "WorldChampionsSliderWidget",
+            "source": "VolumeSfx",
+            "step": 0.1,
+            "description": "VOLUME_SFX_DESCRIPTION"
+        },
+        {
+            "title": "VOLUME_MUSIC",
+            "type": "Range",
+            "clip": "WorldChampionsSliderWidget",
+            "source": "VolumeMusic",
+            "step": 0.1,
+            "description": "VOLUME_MUSIC_DESCRIPTION"
+        },
+        {
+            "title": "FULL_SCREEN",
+            "type": "Toggle",
+            "clip": "WorldChampionsToggleWidget",
+            "source": "FullScreen",
+            "description": "FULL_SCREEN_DESCRIPTION"
+        },
+        {
+            "title": "AUDIENCE_MODE",
+            "type": "Toggle",
+            "clip": "WorldChampionsToggleWidget",
+            "source": "AudienceOn",
+            "description": "AUDIENCE_MODE_DESCRIPTION"
+        },
+        {
+            "title": "EXTENDED_TIMERS",
+            "type": "Toggle",
+            "clip": "WorldChampionsPasswordWidget",
+            "source": "ExtendedTimers",
+            "description": "EXTENDED_TIMERS_DESCRIPTION"
+        },
+        {
+            "title": "PASSWORD_PROTECTED",
+            "type": "Password",
+            "clip": "WorldChampionsPasswordWidget",
+            "source": "PasswordedRoom",
+            "password": "PASSWORD_PROTECTED_LABEL",
+            "description": "PASSWORD_PROTECTED_DESCRIPTION"
+        },
+        {
+            "title": "TWITCH_REQUIRED",
+            "type": "Toggle",
+            "clip": "WorldChampionsToggleWidget",
+            "source": "RequireTwitch",
+            "description": "TWITCH_REQUIRED_DESCRIPTION"
+        },
+        {
+            "title": "FILTER_US_CENTRIC",
+            "type": "Toggle",
+            "clip": "WorldChampionsToggleWidget",
+            "source": "FilterUSCentricContent",
+            "description": "FILTER_US_CENTRIC_DESCRIPTION"
+        },
+        {
+            "title": "POSTGAME_SHARING",
+            "type": "Toggle",
+            "clip": "WorldChampionsToggleWidget",
+            "source": "PostGameSharing",
+            "description": "POSTGAME_SHARING_DESCRIPTION"
+        },
+        {
+            "title": "SKIP_TUTORIALS",
+            "type": "Toggle",
+            "clip": "WorldChampionsToggleWidget",
+            "source": "SkipTutorial",
+            "description": "SKIP_TUTORIALS_DESCRIPTION"
+        },
+        {
+            "title": "FAMILY_FRIENDLY",
+            "type": "Toggle",
+            "clip": "WorldChampionsToggleWidget",
+            "source": "FamilyFriendly",
+            "description": "FAMILY_FRIENDLY_DESCRIPTION"
+        },
+        {
+            "title": "FILTER_PLAYERNAME",
+            "type": "Toggle",
+            "clip": "WorldChampionsToggleWidget",
+            "source": "FilterPlayerNameContent",
+            "description": "FILTER_PLAYERNAME_DESCRIPTION"
+        },
+        {
+            "title": "START_GAMEPAD",
+            "type": "Toggle",
+            "clip": "WorldChampionsToggleWidget",
+            "source": "GamepadStart",
+            "description": "START_GAMEPAD_DESCRIPTION"
+        },
+        {
+            "title": "HIDE_ROOM_CODE",
+            "type": "Toggle",
+            "clip": "WorldChampionsToggleWidget",
+            "source": "HideRoomCode",
+            "description": "HIDE_ROOM_CODE_DESCRIPTION"
+        },
+        {
+            "title": "MAX_PLAYERS",
+            "type": "List",
+            "clip": "WorldChampionsListWidget",
+            "source": "MaxPlayers",
+            "options": [3,4,5,6,7,8],
+            "defaultValueIndex": 5,
+            "description": "MAX_PLAYERS_DESCRIPTION"
+        },
+        {
+            "title": "SUBTITLES",
+            "type": "Toggle",
+            "clip": "WorldChampionsToggleWidget",
+            "source": "Subtitles",
+            "description": "SUBTITLES_DESCRIPTION"
+        },
+        {
+            "title": "STATIC_BACKGROUNDS",
+            "type": "Toggle",
+            "clip": "WorldChampionsToggleWidget",
+            "source": "MotionSensitivity",
+            "description": "STATIC_BACKGROUNDS_DESCRIPTION"
+        },
+        {
+            "title": "PLAYER_CONTENT_FILTERING",
+            "type": "List",
+            "clip": "WorldChampionsWideListWidget",
+            "source": "PlayerContentFiltering",
+            "options": ["PLAYER_CONTENT_FILTERING_OFF", "PLAYER_CONTENT_FILTERING_HATE_SPEECH", "PLAYER_CONTENT_FILTERING_PROFANITY"],
+            "defaultValueIndex": 0,
+            "localizedOptions": true,
+            "description": ["PLAYER_CONTENT_FILTERING_OFF_DESCRIPTION", "PLAYER_CONTENT_FILTERING_HATE_SPEECH_DESCRIPTION", "PLAYER_CONTENT_FILTERING_PROFANITY_DESCRIPTION"]
+        },
+        {
+            "title": "MODERATION",
+            "type": "Password",
+            "clip": "WorldChampionsPasswordWidget",
+            "source": "ModeratedRoom",
+            "password": "MODERATION_PASSWORD",
+            "description": "MODERATION_DESCRIPTION"
+        }
+    ]
+}
