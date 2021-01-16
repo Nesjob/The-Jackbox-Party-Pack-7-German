@@ -12,7 +12,7 @@ Synchro by
 
 ***Champ'd UP***
 -
-Translation by Uschan deLucca
+Translation by El Alex
 
 Synchro by
 
