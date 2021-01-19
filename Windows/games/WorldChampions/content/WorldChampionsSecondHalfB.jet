@@ -1,2010 +1,2002 @@
 {
- "content": [
-  {
-   "contest": "Der Champion der schlechten Tippser",
-   "gameText": "schlechten Tippser",
-   "id": "68684",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Monster Truck Fans",
-   "gameText": "der Monster Truck Fans",
-   "id": "69792",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": true,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des verflucht seins",
-   "gameText": "des verflucht seins",
-   "id": "69847",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der toxischen Männlichkeit",
-   "gameText": "toxischen Menschlichkeit",
-   "id": "70184",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des völlig dicht seins",
-   "gameText": "des völlig dicht seins",
-   "id": "70365",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des im geheimem ein großartiger Liebhaber seins",
-   "gameText": "im geheimem ein großartiger Liebhaber seins",
-   "id": "70366",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der zukünftigen Herrscher der Welt",
-   "gameText": "der zukünftigen Herrscher der Welt",
-   "id": "70367",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des den Hintern versohlt bekommens",
-   "gameText": "des den Hintern versohlt bekommens",
-   "id": "70368",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des Heimsuchens deiner Träume heute Nacht",
-   "gameText": "des Heimsuchens deiner Träume heute Nacht",
-   "id": "70369",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Gnadenlosen",
-   "gameText": "der Gnadenlosen",
-   "id": "70371",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der heißen Themen",
-   "gameText": "der heißen Themen",
-   "id": "70479",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": true,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des von der Universität fliegens",
-   "gameText": "des von der Universität fliegens",
-   "id": "70515",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des zu hart versuchens",
-   "gameText": "des zu hart versuchens",
-   "id": "71291",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des \"Bitte Abonnieren und ein Like da lassen\"",
-   "gameText": "des \"Bitte Abonnieren und ein Like da lassen\"",
-   "id": "71336",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der schlechten Menschenkenntnis",
-   "gameText": "der schlechten Menschenkenntnis",
-   "id": "71351",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion von Choo Choo, hier kommt der Zug!",
-   "gameText": "von Choo Choo, hier kommt der Zug!",
-   "id": "71623",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Kommentarspalte",
-   "gameText": "der Kommentarspalte",
-   "id": "71760",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des ein Skelett im Schrank habens",
-   "gameText": "des ein Skelett im Schrank habens",
-   "id": "71807",
-   "includesPlayerName": false,
-   "linkedPrompts": [
-    ""
-   ],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Filme für Erwachsene",
-   "gameText": "der Filme für Erwachsene",
-   "id": "71816",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Angst vor dem Präsentieren",
-   "gameText": "der Angst vor dem Präsentieren",
-   "id": "71823",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des unhöflich zum Server seins",
-   "gameText": "des unhöflich zum Server seins",
-   "id": "71825",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der schlechten Lebensentscheidungen",
-   "gameText": "der schlechten Lebensentscheidungen",
-   "id": "71833",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der schlechten ärztlichen Untersuchungen",
-   "gameText": "der schlechten ärztlichen Untersuchungen",
-   "id": "71839",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des rücksichtslosen gefährdens",
-   "gameText": "des rücksichtslosen gefährdens",
-   "id": "71841",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Job Interviews",
-   "gameText": "der Job Interviews",
-   "id": "71844",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Besitzens der knalligsten Vogel Pullover",
-   "gameText": "des Besitzens der knalligsten Vogel Pullover",
-   "id": "71845",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der progressiven Erziehung",
-   "gameText": "der progressiven Erziehung",
-   "id": "71849",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Rave Parties",
-   "gameText": "der Rave Parties",
-   "id": "71853",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Politiker",
-   "gameText": "der Politiker",
-   "id": "71858",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des ÖPN",
-   "gameText": "des ÖPN",
-   "id": "71861",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des 'Ich möchte mit dem Manager sprechen'",
-   "gameText": "des 'Ich möchte mit dem Manager sprechen'",
-   "id": "71877",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Ausspannens deines Partners",
-   "gameText": "des Ausspannens deines Partners",
-   "id": "71879",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Ferienlager-Berater",
-   "gameText": "der Ferienlager-Berater",
-   "id": "71881",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der <i>Alarm für Kobra 11</i> Charaktäre, die ein Verbrechen erlebt haben",
-   "gameText": "der <i>Alarm für Kobra 11</i> Charaktäre, die ein Verbrechen erlebt haben",
-   "id": "71883",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Sonnenbrände ",
-   "gameText": "der Sonnenbrände",
-   "id": "71895",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des als erster geopfert werdens",
-   "gameText": "des als erster geopfert werdens",
-   "id": "71907",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des Aufpeppens der Situationen im Schlafzimmer",
-   "gameText": "des Aufpeppens der Situationen im Schlafzimmer",
-   "id": "71909",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Geburtstagsparty Entertainer",
-   "gameText": "der Geburtstagsparty Entertainer",
-   "id": "71917",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der himmlischen Objekte",
-   "gameText": "der himmlischen Objekte",
-   "id": "71943",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des kurz vor dem Ausrasten seins",
-   "gameText": "des kurz vor dem Ausrasten seins",
-   "id": "71944",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der zerstrittenen Familien",
-   "gameText": "der zerstrittenen Familien",
-   "id": "71972",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": true,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Durstmacher",
-   "gameText": "der Durstmacher",
-   "id": "71978",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Aushilfslehrer",
-   "gameText": "der Aushilfslehrer",
-   "id": "71984",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des immernoch bei den Eltern wohnens",
-   "gameText": "des immernoch bei den Eltern wohnens",
-   "id": "71988",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des von Monstern gefressen werdens",
-   "gameText": "des von Monstern gefressen werdens",
-   "id": "72006",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Badezimmer beschlagnahmens",
-   "gameText": "des Badezimmer beschlagnahmens",
-   "id": "72011",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": true,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der sanften Liebenden",
-   "gameText": "der sanften Liebenden",
-   "id": "72015",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des Flüssigkeiten produzierens",
-   "gameText": "des Flüssigkeiten produzierens",
-   "id": "72017",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der schlagbaren Gesichter",
-   "gameText": "der schlagbaren Gesichter",
-   "id": "72019",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des Heimgesucht werdens",
-   "gameText": "des Heimgesucht werdens",
-   "id": "72025",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des zu heiß, um damit umzugehen seins",
-   "gameText": "zu heiß, um damit umzugehen seins",
-   "id": "72029",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Beziehungen",
-   "gameText": "der Beziehungen",
-   "id": "72050",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Kitzel Kämpfe",
-   "gameText": "der Kitzel Kämpfe",
-   "id": "72052",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der geflohenen Verhafteten",
-   "gameText": "der geflohenen Verhafteten",
-   "id": "72056",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des misverstanden seins",
-   "gameText": "des misverstanden seins",
-   "id": "72074",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des groovens",
-   "gameText": "des groovens",
-   "id": "72115",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des gerade so durchhaltens",
-   "gameText": "des gerade so durchhaltens",
-   "id": "72152",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der sofortigen Trennungen",
-   "gameText": "der sofortigen Trennungen",
-   "id": "72156",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des tägliche Zeitung lesens",
-   "gameText": "des tägliche Zeitung lesen",
-   "id": "72158",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des alles haben wollens",
-   "gameText": "des alles haben wollens",
-   "id": "72210",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Toilette Verstopfer",
-   "gameText": "der Toilette Verstopfer",
-   "id": "72217",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des grauenvollen Geschmacks",
-   "gameText": "des grauenvollen Geschmacks",
-   "id": "72231",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des auf der Toilette sterbens",
-   "gameText": "des auf der Toilette sterbens",
-   "id": "72265",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Pubertät",
-   "gameText": "der Pubertät",
-   "id": "72270",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des gruselige Kinderlieder singens",
-   "gameText": "des gruselige Kinderreime singens",
-   "id": "72274",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des von allen verurteilt werdens",
-   "gameText": "des von allen verurteilt werdens",
-   "id": "72299",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des $100,000 Schuldenberges",
-   "gameText": "des $100,000 Schuldenberges",
-   "id": "72303",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des öffentlichen Rundfunks",
-   "gameText": "des öffentlichen Rundfunks",
-   "id": "72316",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": true,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des am Montag gefeuert werdens",
-   "gameText": "des am Montag gefeuert werdens",
-   "id": "72320",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des niemals mehr als ein erstes Date habens",
-   "gameText": "des niemals mehr als ein erstes Date habens",
-   "id": "72326",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion von eBay Kleinanzeigen",
-   "gameText": "von eBay Kleinanzeigen",
-   "id": "72331",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Blutdurst",
-   "gameText": "des Blutdurst",
-   "id": "72334",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der fehlenden Persönlichkeit",
-   "gameText": "der fehlenden Persönlichkeit",
-   "id": "72339",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der zukünftigen Theater Darsteller",
-   "gameText": "der zukünftigen Theater Darsteller",
-   "id": "72342",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Kinderunterhaltung",
-   "gameText": "der Kinderunterhaltung",
-   "id": "72371",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des verlierens des Sorgerechts",
-   "gameText": "des verlierens des Sorgerechts",
-   "id": "72381",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Dating Profile",
-   "gameText": "der Dating Profile",
-   "id": "72444",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Sebastian Schweighöfer Rollen",
-   "gameText": "der Sebastian Schweighöfer Rollen",
-   "id": "72470",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": true,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Grundschul-Aufführungen",
-   "gameText": "der Grundschul-Aufführungen",
-   "id": "72484",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Dinge in Brand setzens",
-   "gameText": "des Dinge in Brand setzens",
-   "id": "72519",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Lebensmittelvergiftungen",
-   "gameText": "der Lebensmittelvergiftungen",
-   "id": "72540",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des verursachens der Auslöschung der Menschheit",
-   "gameText": "des verursachens der Auslöschung der Menschheit",
-   "id": "72541",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Undercover-Bosse",
-   "gameText": "der Undercover-Bosse",
-   "id": "72572",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des insgeheim ein Mörder seins",
-   "gameText": "des insgeheim ein Mörder seins",
-   "id": "72655",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Spanner",
-   "gameText": "der Spanner",
-   "id": "72662",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des dringend duschen müssens",
-   "gameText": "des dringend duschen müssens",
-   "id": "72668",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der öffentlichen Vorträge",
-   "gameText": "der öffentlichen Vorträge",
-   "id": "72672",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des ganz süß seins, wenn man ihn erstmal kennenlernt",
-   "gameText": "des ganz süß seins, wenn man ihn erstmal kennenlernt",
-   "id": "72684",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des \"Burn It With Fire\"",
-   "gameText": "des \"Burn It With Fire\"",
-   "id": "72691",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": true,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des eine Last für die Gesellschaft seins",
-   "gameText": "des eine Last für die Gesellschaft seins",
-   "id": "72695",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des in der Dusche weinens",
-   "gameText": "des in der Dusche weinens",
-   "id": "72743",
-   "includesPlayerName": false,
-   "linkedPrompts": [
-    ""
-   ],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Absagen bekommens ",
-   "gameText": "des Absagen bekommens ",
-   "id": "72892",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der geheimen Aliens",
-   "gameText": "der geheimen Aliens",
-   "id": "72896",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der K-Pop Fans",
-   "gameText": "der K-Pop Fans",
-   "id": "72897",
-   "includesPlayerName": false,
-   "linkedPrompts": [
-    ""
-   ],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Androiden",
-   "gameText": "der Androiden",
-   "id": "72900",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion von \"Wem?\"",
-   "gameText": "von \"Wem?\"",
-   "id": "72902",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion von wie du in 5 Jahren aussehen wirst",
-   "gameText": "wie du in 5 Jahren aussehen wirst",
-   "id": "72913",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des sich im IKEA verlaufens",
-   "gameText": "des sich im IKEA verlaufens",
-   "id": "72951",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Betrüger",
-   "gameText": "der Betrüger",
-   "id": "72955",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der undercover CIA Agenten",
-   "gameText": "der undercover CIA Agenten",
-   "id": "72957",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Toilette",
-   "gameText": "der Toilette",
-   "id": "72959",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des in Justin Timberlakes Garage herumwühlens",
-   "gameText": "des in Justin Timberlakes Garage herumwühlens",
-   "id": "72993",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Schwiegereltern",
-   "gameText": "der Schwiegereltern",
-   "id": "73044",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des Insiderhandels",
-   "gameText": "des Insiderhandels",
-   "id": "73045",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Ernährung",
-   "gameText": "der Ernährung",
-   "id": "73111",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des sich ins Mainframe hackens",
-   "gameText": "des sich ins Mainframe hackens",
-   "id": "73152",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des gegen die Genfer Konventionen verstoßens",
-   "gameText": "des gegen die Genfer Konventionen verstoßens",
-   "id": "73177",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des Studentenkredits",
-   "gameText": "des Studentenkredits",
-   "id": "73316",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der misverstandenen Monster ",
-   "gameText": "der misverstandenen Monster ",
-   "id": "73322",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der mehreren aktiven Gerichtsverfahren",
-   "gameText": "der mehreren aktiven Gerichtsverfahren",
-   "id": "73339",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des über abgelaufene Gutscheine diskutierens",
-   "gameText": "des über abgelaufene Gutscheine diskutierens",
-   "id": "73362",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des nicht zur Hochzeit eingeladen werdens ",
-   "gameText": "des nicht zur Hochzeit eingeladen werdens ",
-   "id": "73884",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Vorfahren ",
-   "gameText": "der Vorfahren",
-   "id": "73888",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Täuschung",
-   "gameText": "der Täuschung",
-   "id": "73917",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der internationalen Buchhalter-Konferenz ",
-   "gameText": "der internationalen Buchhalter-Konferenz ",
-   "id": "73927",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Wut Probleme",
-   "gameText": "der Wut Probleme",
-   "id": "73939",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der regelmäßigen Notaufnahme Besuche",
-   "gameText": "der regelmäßigen Notaufnahme Besuche",
-   "id": "73940",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Halloween Schlussverkäufe",
-   "gameText": "der Halloween Schlussverkäufe",
-   "id": "73943",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des mit fauligen Tomaten werfens ",
-   "gameText": "des mit fauligen Tomaten werfens",
-   "id": "73976",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Loftwohnungen ",
-   "gameText": "der Loftwohnungen",
-   "id": "73991",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der bekannten Spielzeuge",
-   "gameText": "der bekannten Spielzeuge",
-   "id": "73993",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion von Chatroulett",
-   "gameText": "von Chatroulett",
-   "id": "74000",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der politischen Comics",
-   "gameText": "der politischen Comics",
-   "id": "74008",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Weihnachtsessens",
-   "gameText": "des Weihnachtsessens",
-   "id": "74057",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": true,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des dir auf einer Party ein Ohr abquatschens",
-   "gameText": "dir auf einer Party ein Ohr abquatschens",
-   "id": "74059",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der 30 unter 30 Liste ",
-   "gameText": "der 30 unter 30 Liste",
-   "id": "74094",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des ein gutes Leben lebens",
-   "gameText": "des ein gutes Leben lebens ",
-   "id": "74104",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des eine Werbung für umgekehrte Hypotheken präsentierens ",
-   "gameText": "Hosting des eine Werbung für umgekehrte Hypotheken präsentierens ",
-   "id": "74118",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des \"Weißt du, wer mein Vater ist?\"",
-   "gameText": "des \"Weißt du, wer mein Vater ist?\"",
-   "id": "74142",
-   "includesPlayerName": false,
-   "linkedPrompts": [
-    ""
-   ],
-   "us": true,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des verzweifelt versuchens, die Ehe zu retten",
-   "gameText": "des verzweifelt versuchens, die Ehe zu retten",
-   "id": "74145",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des enttäuschens des eigenen Partners ",
-   "gameText": "des enttäuschens des eigenen Partners ",
-   "id": "74264",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Liste der Bedrohten Tierarten",
-   "gameText": "der Liste der Bedrohten Tierarten",
-   "id": "74360",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des gutaussehend aufwachens",
-   "gameText": "des gutaussehend aufwachens",
-   "id": "74366",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Zoom Meetings ",
-   "gameText": "der Zoom Meetings ",
-   "id": "74368",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Reality TV Drama ",
-   "gameText": "des Reality TV Drama ",
-   "id": "74634",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der peinlichen viralen Videos ",
-   "gameText": "der peinlichen viralen Videos",
-   "id": "74636",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des sich nach der Trennung ein Pony wachsen lassens ",
-   "gameText": "des sich nach der Trennung ein Pony wachsen lassens ",
-   "id": "74638",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der fehlgeschlagenen Versuche, Brat Pitt zu klonen ",
-   "gameText": "der fehlgeschlagenen Versuche, Brat Pitt zu klonen ",
-   "id": "74640",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des likens aller Urlaubsbilder",
-   "gameText": "des likens aller Urlaubsbilder",
-   "id": "74642",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des öffentlichen Theaters ",
-   "gameText": "des öffentlichen Theaters ",
-   "id": "74644",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Verkaufs von ätherischen Ölen",
-   "gameText": "des Verkaufs von ätherischen Ölen ",
-   "id": "74646",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des emotional angeschlagen seins ",
-   "gameText": "des emotional angeschlagen seins ",
-   "id": "74648",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": true,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des auf offensichtliche Betrüger hereinfallens ",
-   "gameText": "des auf offensichtliche Betrüger hereinfallens ",
-   "id": "74650",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des sich selbst neu erfindens ",
-   "gameText": "des sich selbst neu erfindens ",
-   "id": "74652",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der mächtigen Auras ",
-   "gameText": "der mächtigen Auras ",
-   "id": "74654",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des 'sein einziges Vergehen war, sich selbst zu sehr zu lieben'",
-   "gameText": "des 'sein einziges Vergehen war, sich selbst zu sehr zu lieben'",
-   "id": "74656",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion von Pinterest ",
-   "gameText": "Pinterest ",
-   "id": "74658",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Mutter enttäuschens ",
-   "gameText": " des Mutter enttäuschens ",
-   "id": "74660",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des nach Axe Deo riechens",
-   "gameText": " des nach Axe Deo riechens",
-   "id": "74662",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Planens deines Untergangs ",
-   "gameText": "des Planens deines Untergangs ",
-   "id": "74664",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des Besitzens von Monster-Energy Anteilen",
-   "gameText": "des Besitzens von Monster-Energy Anteilen",
-   "id": "74666",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Bedürftigseins",
-   "gameText": "Being Needy",
-   "id": "74668",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des einen Berufsberater benötigen ",
-   "gameText": "des einen Berufsberater benötigen ",
-   "id": "74670",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Gruppenarbeiten allein machens",
-   "gameText": "des Gruppenarbeiten allein machens",
-   "id": "74672",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des in eine Maschine gesogen werdens",
-   "gameText": "des in eine Maschine gesogen werdens",
-   "id": "74674",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des von Gänsen angegriffen werdens",
-   "gameText": "des von Gänsen angegriffen werdens",
-   "id": "74676",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Ziele für die Revolution ",
-   "gameText": "der Ziele für die Revolution ",
-   "id": "74678",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des mit dem Arm in eines Snackautomats stecken bleibens",
-   "gameText": "des mit dem Arm in eines Snackautomats stecken bleibens",
-   "id": "74680",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Besitzens von exotischen Haustieren",
-   "gameText": "des Besitzens von exotischen Haustieren",
-   "id": "74682",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des nicht gut mit der Zeit gehens ",
-   "gameText": "des nicht gut mit der Zeit gehens",
-   "id": "74684",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der gebannten Twitter Accounts",
-   "gameText": "der gebannten Twitter Accounts",
-   "id": "74686",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des in den Pool pinkeln ",
-   "gameText": "des in den Pool pinkeln ",
-   "id": "74688",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": true,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der halbfertigen Drehbücher",
-   "gameText": "der halbfertigen Drehbücher",
-   "id": "74690",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des einen Oscar nominierten Film inspirierens",
-   "gameText": "des einen Oscar nominierten Film inspirierens",
-   "id": "74692",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des von einem Bauern mit einer Shotgun verfolgt werdens",
-   "gameText": "des von einem Bauern mit einer Shotgun verfolgt werdens",
-   "id": "74694",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Hohlköpfe",
-   "gameText": "der Hohlköpfe",
-   "id": "74702",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des mit einem Knall zu Grunde gehens",
-   "gameText": "des mit einem Knall zu Grunde gehens ",
-   "id": "74704",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": true,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des bei Rot über die Straße gehens ",
-   "gameText": "des bei Rot über die Straße gehens ",
-   "id": "74706",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Sammelns von Puppenteilen ",
-   "gameText": "des Sammelns von Puppenteilen ",
-   "id": "74708",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der schönen Singstimmen",
-   "gameText": "der schönen Singstimmen ",
-   "id": "74710",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Nachrichten von Gestern ",
-   "gameText": "der Nachrichten von Gestern ",
-   "id": "74712",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des unfähig seins, einen Vollzeitjob zu behalten ",
-   "gameText": "des unfähig seins, einen Vollzeitjob zu behalten ",
-   "id": "74714",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des genau drei Freunde habens ",
-   "gameText": "des genau drei Freunde habens ",
-   "id": "74716",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Scheidung ",
-   "gameText": "der Scheidung ",
-   "id": "74724",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Samstag Nacht",
-   "gameText": "der Samstag Nacht ",
-   "id": "74727",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des kurz vor dem Ausrasten seins",
-   "gameText": "des kurz vor dem Ausrasten seins ",
-   "id": "74729",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des alle anderen langweilens ",
-   "gameText": "des alle anderen langweilens ",
-   "id": "74731",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der undercover Agenten ",
-   "gameText": "der undercover Agenten ",
-   "id": "74733",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Jugendkultur",
-   "gameText": "der Jugendkultur ",
-   "id": "74735",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des 'der Held sein, den diese Stadt braucht' ",
-   "gameText": "des 'der Held sein, den diese Stadt braucht' ",
-   "id": "74739",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Angst vor Bindung habens ",
-   "gameText": "des Angst vor Bindung habens ",
-   "id": "74741",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der versteckten Tattoos ",
-   "gameText": "der versteckten Tattoos ",
-   "id": "74743",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Browser Verlauf löschens ",
-   "gameText": "des Browser Verlauf löschens ",
-   "id": "74746",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der ekelhaften Bettwäsche ",
-   "gameText": "der ekelhaften Bettwäsche ",
-   "id": "74747",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Online Spiele ",
-   "gameText": "der Online Spiele",
-   "id": "74751",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Auserwählten",
-   "gameText": "der Auserwählten",
-   "id": "74831",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Schaltjahres",
-   "gameText": "des Schaltjahres",
-   "id": "74833",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": true,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Nachbarschaftswache",
-   "gameText": "der Nachbarschaftswache",
-   "id": "74835",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des mit einem Durchsuchungsbefehls konfrontiert werdens ",
-   "gameText": "des mit einem Durchsuchungsbefehls konfrontiert werdens ",
-   "id": "74837",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des nach einer Woche im Ausland mit Akzent redens ",
-   "gameText": "des nach einer Woche im Ausland mit Akzent redens ",
-   "id": "74840",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der guten Einstellung zum eigenen Körper ",
-   "gameText": "der guten Einstellung zum eigenen Körper ",
-   "id": "74845",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion im Zeitgeist einfangen ",
-   "gameText": "im Zeitgeist einfangen ",
-   "id": "74850",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion des Mile High Club",
-   "gameText": "des Mile High Club",
-   "id": "74852",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der schamlosen Eigenwerbung ",
-   "gameText": "der schamlosen Eigenwerbung ",
-   "id": "74948",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der beeindruckenden Majestäten ",
-   "gameText": "der beeindruckenden Majestäten ",
-   "id": "74952",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des beinahe in die Luft gehens ",
-   "gameText": "des beinahe in die Luft gehens ",
-   "id": "74953",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Thema eines Dokumentarfilmes werdens ",
-   "gameText": "des Thema eines Dokumentarfilmes werdens ",
-   "id": "74959",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des öffentlichen Ausrastens",
-   "gameText": "des öffentlichen Ausrastens",
-   "id": "74965",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Multi-Level Marketing ",
-   "gameText": "des ulti-Level Marketing ",
-   "id": "74969",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der seltsamen Nachbarn ",
-   "gameText": "der seltsamen Nachbarn ",
-   "id": "75614",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Wartezimmers ",
-   "gameText": " des Wartezimmers ",
-   "id": "75616",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Versicherungsverkäufer ",
-   "gameText": "der Versicherungsverkäufer ",
-   "id": "75618",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des eine eigene Wackelkopf Puppe verdienens ",
-   "gameText": "des eine eigene Wackelkopf Puppe verdienens ",
-   "id": "75620",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des eine Runde Pommes für alle ausgebens ",
-   "gameText": "des eine Runde Pommes für alle ausgebens ",
-   "id": "75622",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Notfallkontakt Liste",
-   "gameText": "der Notfallkontakt Liste",
-   "id": "75625",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion von Bitcoin ",
-   "gameText": "Bitcoin",
-   "id": "75627",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Badestrands ",
-   "gameText": "des Badestrands ",
-   "id": "76007",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Menschen als Sport jagens ",
-   "gameText": "des Menschen als Sport jagens ",
-   "id": "76009",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion von 2030",
-   "gameText": "von 2030",
-   "id": "76011",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des eine starke Meinung zu Anime habens",
-   "gameText": "des eine starke Meinung zu Anime habens",
-   "id": "76013",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des seine Mutter beim Vorname nennens",
-   "gameText": "des seine Mutter beim Vorname nennens",
-   "id": "76015",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der nutzlosen Superkräfte ",
-   "gameText": "der nutzlosen Superkräfte ",
-   "id": "76017",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des der Regierung aus dem Weg zu gehens",
-   "gameText": "des der Regierung aus dem Weg zu gehens",
-   "id": "76021",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des zu lange zu Gast bleibens",
-   "gameText": "des zu lange zu Gast bleibens",
-   "id": "76023",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der wissenschaftlichen Studien ",
-   "gameText": "der wissenschaftlichen Studien ",
-   "id": "76025",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Hotelzimmer Verwüstung",
-   "gameText": "der Hotelzimmer Verwüstung",
-   "id": "76027",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Handy in die Toilette fallen lassens",
-   "gameText": "des Handy in die Toilette fallen lassens ",
-   "id": "76029",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion der Lebensberater ",
-   "gameText": "Lebensberater",
-   "id": "76031",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des 'komm mal wieder runter'",
-   "gameText": "des 'komm mal wieder runter'",
-   "id": "76033",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Nutzens von Feuchtigkeitscremes ",
-   "gameText": "des Nutzens von Feuchtigkeitscremes ",
-   "id": "76096",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": true
-  },
-  {
-   "contest": "Der Champion der Starbucks Toilette ",
-   "gameText": " der Starbucks Toilette",
-   "id": "76098",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  },
-  {
-   "contest": "Der Champion des Boss Levels",
-   "gameText": "des Boss Levels ",
-   "id": "76100",
-   "includesPlayerName": false,
-   "linkedPrompts": [],
-   "us": false,
-   "x": false
-  }
- ]
+	"content": [
+		{
+			"contest": "Der Champion der knausrigen Trinkgeldgeber",
+			"gameText": "der knausrigen Trinkgeldgeber",
+			"id": "68684",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Monstertruck-Fans",
+			"gameText": "der Monstertruck-Fans",
+			"id": "69792",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": true,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des verflucht seins",
+			"gameText": "des verflucht seins",
+			"id": "69847",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der toxischen Männlichkeit",
+			"gameText": "der toxischen Männlichkeit",
+			"id": "70184",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des völlig dicht seins",
+			"gameText": "des völlig dicht seins",
+			"id": "70365",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der heimlichen Liebhaber",
+			"gameText": "der heimlichen Liebhaber",
+			"id": "70366",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der korrupten Staatsoberhäupter",
+			"gameText": "der korrupten Staatsoberhäupter",
+			"id": "70367",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des in den Hintern getreten werdens",
+			"gameText": "des in den Hintern getreten werdens",
+			"id": "70368",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des Verfolgens Ihrer Träume",
+			"gameText": "des Verfolgens Ihrer Träume",
+			"id": "70369",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Gnadenlosigkeit",
+			"gameText": "der Gnadenlosigkeit",
+			"id": "70371",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der heissen Themen",
+			"gameText": "der heissen Themen",
+			"id": "70479",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": true,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des von der Universität fliegens",
+			"gameText": "des von der Universität fliegens",
+			"id": "70515",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des zu hart versuchens",
+			"gameText": "des zu hart versuchens",
+			"id": "71291",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des \"Bitte Abonnieren und ein Like da lassen\"",
+			"gameText": "des \"Bitte Abonnieren und ein Like da lassen\"",
+			"id": "71336",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der schlechten Menschenkenntnis",
+			"gameText": "der schlechten Menschenkenntnis",
+			"id": "71351",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Alpen",
+			"gameText": "der Alpen",
+			"id": "71623",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Kommentarspalte",
+			"gameText": "der Kommentarspalte",
+			"id": "71760",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Leichen im Keller",
+			"gameText": "der Leichen im Keller",
+			"id": "71807",
+			"includesPlayerName": false,
+			"linkedPrompts": "",
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Erwachsenenfilme",
+			"gameText": "der Erwachsenenfilme",
+			"id": "71816",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Angst vor dem Präsentieren",
+			"gameText": "der Angst vor dem Präsentieren",
+			"id": "71823",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des unhöflich zum Server seins",
+			"gameText": "des unhöflich zum Server seins",
+			"id": "71825",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der schlechten Lebensentscheidungen",
+			"gameText": "der schlechten Lebensentscheidungen",
+			"id": "71833",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der ärztlichen Kunstfehler",
+			"gameText": "der ärztlichen Kunstfehler",
+			"id": "71839",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des rücksichtslosen gefährdens",
+			"gameText": "des rücksichtslosen gefährdens",
+			"id": "71841",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Job Interviews",
+			"gameText": "der Job Interviews",
+			"id": "71844",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Besitzens vom Comic-Pullovern",
+			"gameText": "des Besitzens vom Comic-Pullovern",
+			"id": "71845",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der laschen Kinderbetreuung",
+			"gameText": "der laschen Kinderbetreuung",
+			"id": "71849",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Rave Parties",
+			"gameText": "der Rave Parties",
+			"id": "71853",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Politiker",
+			"gameText": "der Politiker",
+			"id": "71858",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der öffentlichen Verkehrsmittel",
+			"gameText": "der öffentlichen Verkehrsmittel",
+			"id": "71861",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion von \"Ich möchte den Besitzer sprechen\"",
+			"gameText": "von \"Ich möchte den Besitzer sprechen\"",
+			"id": "71877",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Ausspannens deines Partners",
+			"gameText": "des Ausspannens deines Partners",
+			"id": "71879",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Jugendherbergsleiter",
+			"gameText": "der Jugendherbergsleiter",
+			"id": "71881",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der unbequemen Partygäste",
+			"gameText": "der unbequemen Partygäste",
+			"id": "71883",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Sonnenbrände",
+			"gameText": "der Sonnenbrände",
+			"id": "71895",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des als erster geopfert werdens",
+			"gameText": "des als erster geopfert werdens",
+			"id": "71907",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des \"Lass uns schmutzige Dinge tun\"",
+			"gameText": "des \"Lass uns schmutzige Dinge tun\"",
+			"id": "71909",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Geburtstagsparty Entertainer",
+			"gameText": "der Geburtstagsparty Entertainer",
+			"id": "71917",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der himmlischen Objekte",
+			"gameText": "der himmlischen Objekte",
+			"id": "71943",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Schnappatmung",
+			"gameText": "der Schnappatmung",
+			"id": "71944",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der zerstrittenen Familien",
+			"gameText": "der zerstrittenen Familien",
+			"id": "71972",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": true,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Durstmacher",
+			"gameText": "der Durstmacher",
+			"id": "71978",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Aushilfslehrer",
+			"gameText": "der Aushilfslehrer",
+			"id": "71984",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des immernoch bei den Eltern wohnens",
+			"gameText": "des immernoch bei den Eltern wohnens",
+			"id": "71988",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des von Monstern gefressen werdens",
+			"gameText": "des von Monstern gefressen werdens",
+			"id": "72006",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Badezimmer beschlagnahmens",
+			"gameText": "des Badezimmer beschlagnahmens",
+			"id": "72011",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": true,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der sanften Liebenden",
+			"gameText": "der sanften Liebenden",
+			"id": "72015",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Flüssigkeitsproduktion",
+			"gameText": "der Flüssigkeitsproduktion",
+			"id": "72017",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der schlagbaren Gesichter",
+			"gameText": "der schlagbaren Gesichter",
+			"id": "72019",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des Heimgesucht werdens",
+			"gameText": "des Heimgesucht werdens",
+			"id": "72025",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des zu heiss, um damit umzugehen seins",
+			"gameText": "des zu heiss, um damit umzugehen seins",
+			"id": "72029",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Beziehungen",
+			"gameText": "der Beziehungen",
+			"id": "72050",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Kitzel Kämpfe",
+			"gameText": "der Kitzel Kämpfe",
+			"id": "72052",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der entflohenen Sträflinge",
+			"gameText": "der entflohenen Sträflinge",
+			"id": "72056",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des misverstanden seins",
+			"gameText": "des misverstanden seins",
+			"id": "72074",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des groovens",
+			"gameText": "des groovens",
+			"id": "72115",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des mangelnden Druchhaltevermögens",
+			"gameText": "des mangelnden Druchhaltevermögens",
+			"id": "72152",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der schnellen Trennungen",
+			"gameText": "der schnellen Trennungen",
+			"id": "72156",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der täglichen Ballaststoffe",
+			"gameText": "der täglichen Ballaststoffe",
+			"id": "72158",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des alles haben wollens",
+			"gameText": "des alles haben wollens",
+			"id": "72210",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der verstopften Toilette",
+			"gameText": "der verstopften Toilette",
+			"id": "72217",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des schrecklichen Geschmacks",
+			"gameText": "des schrecklichen Geschmacks",
+			"id": "72231",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des auf der Toilette sterbens",
+			"gameText": "des auf der Toilette sterbens",
+			"id": "72265",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Pubertät",
+			"gameText": "der Pubertät",
+			"id": "72270",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der merkwürdigen Partygäste",
+			"gameText": "der merkwürdigen Partygäste",
+			"id": "72274",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des von allen verurteilt werdens",
+			"gameText": "des von allen verurteilt werdens",
+			"id": "72299",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Schulden",
+			"gameText": "der Schulden",
+			"id": "72303",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des öffentlichen Rundfunks",
+			"gameText": "des öffentlichen Rundfunks",
+			"id": "72316",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": true,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des am Montag gefeuert werdens",
+			"gameText": "des am Montag gefeuert werdens",
+			"id": "72320",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion darin, nie über das erste Date hinauszukommen",
+			"gameText": "darin, nie über das erste Date hinauszukommen",
+			"id": "72326",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion von eBay Kleinanzeigen",
+			"gameText": "von eBay Kleinanzeigen",
+			"id": "72331",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Blutdurst",
+			"gameText": "des Blutdurst",
+			"id": "72334",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der fehlenden Persönlichkeit",
+			"gameText": "der fehlenden Persönlichkeit",
+			"id": "72339",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der zukünftigen Theater-Darsteller",
+			"gameText": "der zukünftigen Theater-Darsteller",
+			"id": "72342",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Kinderunterhaltung",
+			"gameText": "der Kinderunterhaltung",
+			"id": "72371",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Sorgerechtsverlusts",
+			"gameText": "des Sorgerechtsverlusts",
+			"id": "72381",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Dating-Profile",
+			"gameText": "der Dating-Profile",
+			"id": "72444",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Sebastian Schweighöfer Rollen",
+			"gameText": "der Sebastian Schweighöfer Rollen",
+			"id": "72470",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": true,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Grundschul-Aufführungen",
+			"gameText": "der Grundschul-Aufführungen",
+			"id": "72484",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Dinge in Brand setzens",
+			"gameText": "des Dinge in Brand setzens",
+			"id": "72519",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Lebensmittelvergiftungen",
+			"gameText": "der Lebensmittelvergiftungen",
+			"id": "72540",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des verursachens der Auslöschung der Menschheit",
+			"gameText": "des verursachens der Auslöschung der Menschheit",
+			"id": "72541",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Undercover-Bosse",
+			"gameText": "der Undercover-Bosse",
+			"id": "72572",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der heimlichen Mörder",
+			"gameText": "der heimlichen Mörder",
+			"id": "72655",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Spanner",
+			"gameText": "der Spanner",
+			"id": "72662",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Duschbedürftigkeit",
+			"gameText": "der Duschbedürftigkeit",
+			"id": "72668",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der öffentlichen Vorträge",
+			"gameText": "der öffentlichen Vorträge",
+			"id": "72672",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Nettseins, wenn man ihn kennenlernt",
+			"gameText": "des Nettseins, wenn man ihn kennenlernt",
+			"id": "72684",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des \"Verbrenn es!\"",
+			"gameText": "des \"Verbrenn es!\"",
+			"id": "72691",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": true,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des eine Last für die Gesellschaft seins",
+			"gameText": "des eine Last für die Gesellschaft seins",
+			"id": "72695",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des Weinens unter der Dusche",
+			"gameText": "des Weinens unter der Dusche",
+			"id": "72743",
+			"includesPlayerName": false,
+			"linkedPrompts": "",
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Absagen bekommens",
+			"gameText": "des Absagen bekommens",
+			"id": "72892",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der geheimen Aliens",
+			"gameText": "der geheimen Aliens",
+			"id": "72896",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Schlager-Fans",
+			"gameText": "der Schlager-Fans",
+			"id": "72897",
+			"includesPlayerName": false,
+			"linkedPrompts": "",
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Androiden",
+			"gameText": "der Androiden",
+			"id": "72900",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des \"Versteh ich nicht\"",
+			"gameText": "des \"Versteh ich nicht\"",
+			"id": "72902",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion von wie du in 5 Jahren aussehen wirst",
+			"gameText": "von wie du in 5 Jahren aussehen wirst",
+			"id": "72913",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des sich im IKEA verlaufens",
+			"gameText": "des sich im IKEA verlaufens",
+			"id": "72951",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Schneeballsysteme",
+			"gameText": "der Schneeballsysteme",
+			"id": "72955",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der verdeckten CIA-Agenten",
+			"gameText": "der verdeckten CIA-Agenten",
+			"id": "72957",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Toilette",
+			"gameText": "der Toilette",
+			"id": "72959",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Herumwühlens im Müll von Prominenten",
+			"gameText": "des Herumwühlens im Müll von Prominenten",
+			"id": "72993",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Schwiegereltern",
+			"gameText": "der Schwiegereltern",
+			"id": "73044",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des Insiderhandels",
+			"gameText": "des Insiderhandels",
+			"id": "73045",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Erziehung",
+			"gameText": "der Erziehung",
+			"id": "73111",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Rahmensprenger",
+			"gameText": "der Rahmensprenger",
+			"id": "73152",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des gegen die Genfer Konventionen verstossens",
+			"gameText": "des gegen die Genfer Konventionen verstossens",
+			"id": "73177",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des Studentenkredits",
+			"gameText": "des Studentenkredits",
+			"id": "73316",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der missverstandenen Monster",
+			"gameText": "der missverstandenen Monster",
+			"id": "73322",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der mehreren aktiven Gerichtsverfahren",
+			"gameText": "der mehreren aktiven Gerichtsverfahren",
+			"id": "73339",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Streits über abgelaufene Gutscheine",
+			"gameText": "des Streits über abgelaufene Gutscheine",
+			"id": "73362",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des nicht zur Hochzeit eingeladen werdens",
+			"gameText": "des nicht zur Hochzeit eingeladen werdens",
+			"id": "73884",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Vorfahren",
+			"gameText": "der Vorfahren",
+			"id": "73888",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Täuschung",
+			"gameText": "der Täuschung",
+			"id": "73917",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der internationalen Buchhalter-Konferenz",
+			"gameText": "der internationalen Buchhalter-Konferenz",
+			"id": "73927",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Wutausbrüche",
+			"gameText": "der Wutausbrüche",
+			"id": "73939",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der häufigen Besuche in der Notaufnahme",
+			"gameText": "der häufigen Besuche in der Notaufnahme",
+			"id": "73940",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Halloween-Räumungsverkaufs",
+			"gameText": "des Halloween-Räumungsverkaufs",
+			"id": "73943",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der mit faulen Tomaten beworfenen",
+			"gameText": "der mit faulen Tomaten beworfenen",
+			"id": "73976",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Loftwohnungen",
+			"gameText": "der Loftwohnungen",
+			"id": "73991",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der beliebten Spielzeuge",
+			"gameText": "der beliebten Spielzeuge",
+			"id": "73993",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion von Chatroulett",
+			"gameText": "von Chatroulett",
+			"id": "74000",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der politischen Cartoons",
+			"gameText": "der politischen Cartoons",
+			"id": "74008",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Weihnachtsessens",
+			"gameText": "des Weihnachtsessens",
+			"id": "74057",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": true,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des dir auf einer Party ein Ohr abquatschens",
+			"gameText": "des dir auf einer Party ein Ohr abquatschens",
+			"id": "74059",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Auf-Der-Feindesliste-Steher",
+			"gameText": "der Auf-Der-Feindesliste-Steher",
+			"id": "74094",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion im Leben seines besten Lebens",
+			"gameText": "im Leben seines besten Lebens",
+			"id": "74104",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Lokalwerbespots",
+			"gameText": "der Lokalwerbespots",
+			"id": "74118",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des \"Weisst du, wer mein Vater ist?\"",
+			"gameText": "des \"Weisst du, wer mein Vater ist?\"",
+			"id": "74142",
+			"includesPlayerName": false,
+			"linkedPrompts": "",
+			"us": true,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des verzweifelten Versuchs, seine Ehe zu retten",
+			"gameText": "des verzweifelten Versuchs, seine Ehe zu retten",
+			"id": "74145",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des enttäuschens des eigenen Partners",
+			"gameText": "des enttäuschens des eigenen Partners",
+			"id": "74264",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Liste der bedrohten Tierarten",
+			"gameText": "der Liste der bedrohten Tierarten",
+			"id": "74360",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Morgenmuffel",
+			"gameText": "der Morgenmuffel",
+			"id": "74366",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Videokonferenz",
+			"gameText": "der Videokonferenz",
+			"id": "74368",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Reality-TV-Dramas",
+			"gameText": "des Reality-TV-Dramas",
+			"id": "74634",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der peinlichen viralen Videos",
+			"gameText": "der peinlichen viralen Videos",
+			"id": "74636",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des nicht über die Trennung hinwegkommens",
+			"gameText": "des nicht über die Trennung hinwegkommens",
+			"id": "74638",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der fehlgeschlagenen Versuche, Brat Pitt zu klonen",
+			"gameText": "der fehlgeschlagenen Versuche, Brat Pitt zu klonen",
+			"id": "74640",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Likens von jedem einzelnen Urlaubsfoto",
+			"gameText": "des Likens von jedem einzelnen Urlaubsfoto",
+			"id": "74642",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des öffentlichen Theaters",
+			"gameText": "des öffentlichen Theaters",
+			"id": "74644",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Verkaufs von ätherischen Ölen",
+			"gameText": "des Verkaufs von ätherischen Ölen",
+			"id": "74646",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der emotionalen Verkümmerung",
+			"gameText": "der emotionalen Verkümmerung",
+			"id": "74648",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": true,
+			"x": true
+		},
+		{
+			"contest": "Der Champion im Hereinfallen auf offensichtliche Betrügereien",
+			"gameText": "im Hereinfallen auf offensichtliche Betrügereien",
+			"id": "74650",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion im sich selbst einladen",
+			"gameText": "im sich selbst einladen",
+			"id": "74652",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der mächtigen Aura",
+			"gameText": "der mächtigen Aura",
+			"id": "74654",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der übertriebenen Liebe",
+			"gameText": "der übertriebenen Liebe",
+			"id": "74656",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion von Pinterest",
+			"gameText": "von Pinterest",
+			"id": "74658",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der enttäuschenden Mutter",
+			"gameText": "der enttäuschenden Mutter",
+			"id": "74660",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des nach Axe Deo riechens",
+			"gameText": "des nach Axe Deo riechens",
+			"id": "74662",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des sich selbst die Grube grabens",
+			"gameText": "des sich selbst die Grube grabens",
+			"id": "74664",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Oettinger-Pils-Aktienbesitzer",
+			"gameText": "der Oettinger-Pils-Aktienbesitzer",
+			"id": "74666",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Bedürftigseins",
+			"gameText": "des Bedürftigseins",
+			"id": "74668",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion im Benötigen eines Karriere-Ratgebers",
+			"gameText": "im Benötigen eines Karriere-Ratgebers",
+			"id": "74670",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Gruppenarbeiten allein machens",
+			"gameText": "des Gruppenarbeiten allein machens",
+			"id": "74672",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des in eine Maschine gesogen werdens",
+			"gameText": "des in eine Maschine gesogen werdens",
+			"id": "74674",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des von Gänsen angegriffen werdens",
+			"gameText": "des von Gänsen angegriffen werdens",
+			"id": "74676",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Zielscheiben für die Revolution",
+			"gameText": "der Zielscheiben für die Revolution",
+			"id": "74678",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des mit dem Arm in eines Snackautomats stecken bleibens",
+			"gameText": "des mit dem Arm in eines Snackautomats stecken bleibens",
+			"id": "74680",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Besitzens von exotischen Haustieren",
+			"gameText": "des Besitzens von exotischen Haustieren",
+			"id": "74682",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des nicht gut Alterns",
+			"gameText": "des nicht gut Alterns",
+			"id": "74684",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der gebannten Twitter Accounts",
+			"gameText": "der gebannten Twitter Accounts",
+			"id": "74686",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des in den Pool pinkelns",
+			"gameText": "des in den Pool pinkelns",
+			"id": "74688",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": true,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der halbfertigen Drehbücher",
+			"gameText": "der halbfertigen Drehbücher",
+			"id": "74690",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Inspiration für einen Oscar-nominierten Film",
+			"gameText": "der Inspiration für einen Oscar-nominierten Film",
+			"id": "74692",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des von einem Bauern mit einer Shotgun verfolgt werdens",
+			"gameText": "des von einem Bauern mit einer Shotgun verfolgt werdens",
+			"id": "74694",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Hohlköpfe",
+			"gameText": "der Hohlköpfe",
+			"id": "74702",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des glorreichen Untergangs",
+			"gameText": "des glorreichen Untergangs",
+			"id": "74704",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": true,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des bei Rot über die Strasse gehens",
+			"gameText": "des bei Rot über die Strasse gehens",
+			"id": "74706",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Sammelns von Puppenteilen",
+			"gameText": "des Sammelns von Puppenteilen",
+			"id": "74708",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der schönen Gesangsstimme",
+			"gameText": "der schönen Gesangsstimme",
+			"id": "74710",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Nachrichten von Gestern",
+			"gameText": "der Nachrichten von Gestern",
+			"id": "74712",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des unfähig seins, einen Vollzeitjob zu behalten",
+			"gameText": "des unfähig seins, einen Vollzeitjob zu behalten",
+			"id": "74714",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des genau drei Freunde habens",
+			"gameText": "des genau drei Freunde habens",
+			"id": "74716",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Scheidung",
+			"gameText": "der Scheidung",
+			"id": "74724",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Samstag Nacht",
+			"gameText": "der Samstag Nacht",
+			"id": "74727",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Wuttherapie",
+			"gameText": "der Wuttherapie",
+			"id": "74729",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des alle anderen langweilens",
+			"gameText": "des alle anderen langweilens",
+			"id": "74731",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Undercover-Agenten",
+			"gameText": "der Undercover-Agenten",
+			"id": "74733",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Jugendkultur",
+			"gameText": "der Jugendkultur",
+			"id": "74735",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion darin, der Held zu sein, den die Stadt braucht",
+			"gameText": "darin, der Held zu sein, den die Stadt braucht",
+			"id": "74739",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Bindungsangst",
+			"gameText": "der Bindungsangst",
+			"id": "74741",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der versteckten Tattoos",
+			"gameText": "der versteckten Tattoos",
+			"id": "74743",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Browser Verlauf löschens",
+			"gameText": "des Browser Verlauf löschens",
+			"id": "74746",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der ekligen Bettlaken",
+			"gameText": "der ekligen Bettlaken",
+			"id": "74747",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Online Spiele",
+			"gameText": "der Online Spiele",
+			"id": "74751",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Auserwählten",
+			"gameText": "der Auserwählten",
+			"id": "74831",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Deserteure",
+			"gameText": "der Deserteure",
+			"id": "74833",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": true,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der Nachbarschaftswache",
+			"gameText": "der Nachbarschaftswache",
+			"id": "74835",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des mit einem Durchsuchungsbefehls konfrontiert werdens",
+			"gameText": "des mit einem Durchsuchungsbefehls konfrontiert werdens",
+			"id": "74837",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des Annehmens eines Akzents nach einer Woche im Ausland",
+			"gameText": "des Annehmens eines Akzents nach einer Woche im Ausland",
+			"id": "74840",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der guten Einstellung zum eigenen Körper",
+			"gameText": "der guten Einstellung zum eigenen Körper",
+			"id": "74845",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion im Zeitgeist einfangen",
+			"gameText": "im Zeitgeist einfangen",
+			"id": "74850",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des Swingerclubs",
+			"gameText": "des Swingerclubs",
+			"id": "74852",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der schamlosen Eigenwerbung",
+			"gameText": "der schamlosen Eigenwerbung",
+			"id": "74948",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der beeindruckenden Majestäten",
+			"gameText": "der beeindruckenden Majestäten",
+			"id": "74952",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des beinahe in die Luft gehens",
+			"gameText": "des beinahe in die Luft gehens",
+			"id": "74953",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Thema eines Dokumentarfilmes werdens",
+			"gameText": "des Thema eines Dokumentarfilmes werdens",
+			"id": "74959",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des öffentlichen Ausrastens",
+			"gameText": "des öffentlichen Ausrastens",
+			"id": "74965",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Marketingabteilung",
+			"gameText": "der Marketingabteilung",
+			"id": "74969",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der seltsamen Nachbarn",
+			"gameText": "der seltsamen Nachbarn",
+			"id": "75614",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Wartezimmers",
+			"gameText": "des Wartezimmers",
+			"id": "75616",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der nebulösen Versicherungsvertreter",
+			"gameText": "der nebulösen Versicherungsvertreter",
+			"id": "75618",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Verdienens einer negativen Ehrenmedallie",
+			"gameText": "des Verdienens einer negativen Ehrenmedallie",
+			"id": "75620",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Pommes-Bestellung im 5-Sterne-Restaurant",
+			"gameText": "der Pommes-Bestellung im 5-Sterne-Restaurant",
+			"id": "75622",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Notfallkontaktlinsen",
+			"gameText": "der Notfallkontaktlinsen",
+			"id": "75625",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Bitcoins",
+			"gameText": "des Bitcoins",
+			"id": "75627",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Badestrands",
+			"gameText": "des Badestrands",
+			"id": "76007",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Menschenjagd als Sport",
+			"gameText": "der Menschenjagd als Sport",
+			"id": "76009",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion des Jahres 2030",
+			"gameText": "des Jahres 2030",
+			"id": "76011",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der starken Meinungen über Nebensächlichkeiten",
+			"gameText": "der starken Meinungen über Nebensächlichkeiten",
+			"id": "76013",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des seine Mutter beim Vorname nennens",
+			"gameText": "des seine Mutter beim Vorname nennens",
+			"id": "76015",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der nutzlosen Superkräfte",
+			"gameText": "der nutzlosen Superkräfte",
+			"id": "76017",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion im Meckern über die Regierung",
+			"gameText": "im Meckern über die Regierung",
+			"id": "76021",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des zu lange zu Gast bleibens",
+			"gameText": "des zu lange zu Gast bleibens",
+			"id": "76023",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der wissenschaftlichen Studien",
+			"gameText": "der wissenschaftlichen Studien",
+			"id": "76025",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Hotelzimmer-Verwüstung",
+			"gameText": "der Hotelzimmer-Verwüstung",
+			"id": "76027",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Handy in die Toilette fallen lassens",
+			"gameText": "des Handy in die Toilette fallen lassens",
+			"id": "76029",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Lebensberater",
+			"gameText": "der Lebensberater",
+			"id": "76031",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des 'komm mal wieder runter'",
+			"gameText": "des 'komm mal wieder runter'",
+			"id": "76033",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion des Nutzens von Feuchtigkeitscremes",
+			"gameText": "des Nutzens von Feuchtigkeitscremes",
+			"id": "76096",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": true
+		},
+		{
+			"contest": "Der Champion der McDonalds-Toilette",
+			"gameText": "der McDonalds-Toilette",
+			"id": "76098",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		},
+		{
+			"contest": "Der Champion der Chefetage",
+			"gameText": "der Chefetage",
+			"id": "76100",
+			"includesPlayerName": false,
+			"linkedPrompts": [],
+			"us": false,
+			"x": false
+		}
+	]
 }
