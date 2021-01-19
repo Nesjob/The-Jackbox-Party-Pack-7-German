@@ -12,7 +12,7 @@ Synchro by
 
 ***Champ'd UP***
 -
-Translation by El Alex and FryMaster
+Translation by El Alex, FryMaster & Nesjob
 
 Synchro by
 
