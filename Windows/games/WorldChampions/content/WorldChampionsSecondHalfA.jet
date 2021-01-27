@@ -5,7 +5,9 @@
 			"gameText": "der Influencer",
 			"id": "68700",
 			"includesPlayerName": false,
-			"linkedPrompts": "70368",
+			"linkedPrompts": [
+				"70368"
+			],
 			"us": false,
 			"x": true
 		},
@@ -14,7 +16,9 @@
 			"gameText": "der Intrige",
 			"id": "68702",
 			"includesPlayerName": false,
-			"linkedPrompts": "74746",
+			"linkedPrompts": [
+				"74746"
+			],
 			"us": false,
 			"x": true
 		},
@@ -23,7 +27,9 @@
 			"gameText": "des niedlich Aussehens",
 			"id": "68705",
 			"includesPlayerName": false,
-			"linkedPrompts": "70371",
+			"linkedPrompts": [
+				"70371"
+			],
 			"us": false,
 			"x": false
 		},
@@ -32,7 +38,9 @@
 			"gameText": "der Verschwörungstheorien",
 			"id": "69230",
 			"includesPlayerName": false,
-			"linkedPrompts": "71351",
+			"linkedPrompts": [
+				"71351"
+			],
 			"us": false,
 			"x": true
 		},
@@ -41,7 +49,9 @@
 			"gameText": "der Gamer",
 			"id": "69814",
 			"includesPlayerName": false,
-			"linkedPrompts": "74948",
+			"linkedPrompts": [
+				"74948"
+			],
 			"us": false,
 			"x": false
 		},
@@ -50,7 +60,9 @@
 			"gameText": "der Paraden",
 			"id": "69845",
 			"includesPlayerName": false,
-			"linkedPrompts": "74952",
+			"linkedPrompts": [
+				"74952"
+			],
 			"us": false,
 			"x": false
 		},
@@ -59,7 +71,9 @@
 			"gameText": "der guten Laune",
 			"id": "70277",
 			"includesPlayerName": false,
-			"linkedPrompts": "70365",
+			"linkedPrompts": [
+				"70365"
+			],
 			"us": false,
 			"x": true
 		},
@@ -68,7 +82,9 @@
 			"gameText": "der Schwäche",
 			"id": "70293",
 			"includesPlayerName": false,
-			"linkedPrompts": "70515",
+			"linkedPrompts": [
+				"70515"
+			],
 			"us": false,
 			"x": false
 		},
@@ -77,7 +93,9 @@
 			"gameText": "des Abstossenden",
 			"id": "70299",
 			"includesPlayerName": false,
-			"linkedPrompts": "70366",
+			"linkedPrompts": [
+				"70366"
+			],
 			"us": false,
 			"x": true
 		},
@@ -86,7 +104,9 @@
 			"gameText": "der zurecht unbekannten Maskottchen",
 			"id": "70302",
 			"includesPlayerName": false,
-			"linkedPrompts": "70369",
+			"linkedPrompts": [
+				"70369"
+			],
 			"us": false,
 			"x": false
 		},
@@ -95,7 +115,9 @@
 			"gameText": "der Golfbälle",
 			"id": "70303",
 			"includesPlayerName": false,
-			"linkedPrompts": "70367",
+			"linkedPrompts": [
+				"70367"
+			],
 			"us": false,
 			"x": false
 		},
@@ -104,7 +126,9 @@
 			"gameText": "der nur vorgespielten Nettigkeit",
 			"id": "70327",
 			"includesPlayerName": false,
-			"linkedPrompts": "73044",
+			"linkedPrompts": [
+				"73044"
+			],
 			"us": false,
 			"x": true
 		},
@@ -113,7 +137,9 @@
 			"gameText": "der Kindlichkeit",
 			"id": "70335",
 			"includesPlayerName": false,
-			"linkedPrompts": "72019",
+			"linkedPrompts": [
+				"72019"
+			],
 			"us": false,
 			"x": true
 		},
@@ -122,7 +148,9 @@
 			"gameText": "der Unterwelt",
 			"id": "70475",
 			"includesPlayerName": false,
-			"linkedPrompts": "70479",
+			"linkedPrompts": [
+				"70479"
+			],
 			"us": true,
 			"x": true
 		},
@@ -131,7 +159,9 @@
 			"gameText": "der Wutanfälle",
 			"id": "70644",
 			"includesPlayerName": false,
-			"linkedPrompts": "71623",
+			"linkedPrompts": [
+				"71623"
+			],
 			"us": false,
 			"x": false
 		},
@@ -140,7 +170,9 @@
 			"gameText": "der Boomer",
 			"id": "70858",
 			"includesPlayerName": false,
-			"linkedPrompts": "72541",
+			"linkedPrompts": [
+				"72541"
+			],
 			"us": false,
 			"x": true
 		},
@@ -149,7 +181,9 @@
 			"gameText": "von Sachsen-Anhalt",
 			"id": "71270",
 			"includesPlayerName": false,
-			"linkedPrompts": "74965",
+			"linkedPrompts": [
+				"74965"
+			],
 			"us": false,
 			"x": false
 		},
@@ -158,7 +192,9 @@
 			"gameText": "der Unverhältnismässigkeit",
 			"id": "71817",
 			"includesPlayerName": false,
-			"linkedPrompts": "71816",
+			"linkedPrompts": [
+				"71816"
+			],
 			"us": false,
 			"x": true
 		},
@@ -167,7 +203,9 @@
 			"gameText": "der Stiefväter",
 			"id": "71824",
 			"includesPlayerName": false,
-			"linkedPrompts": "71823",
+			"linkedPrompts": [
+				"71823"
+			],
 			"us": false,
 			"x": true
 		},
@@ -176,7 +214,9 @@
 			"gameText": "der Atheisten",
 			"id": "71827",
 			"includesPlayerName": false,
-			"linkedPrompts": "71825",
+			"linkedPrompts": [
+				"71825"
+			],
 			"us": false,
 			"x": false
 		},
@@ -185,7 +225,9 @@
 			"gameText": "der Rosinenpicker",
 			"id": "71834",
 			"includesPlayerName": false,
-			"linkedPrompts": "71833",
+			"linkedPrompts": [
+				"71833"
+			],
 			"us": false,
 			"x": true
 		},
@@ -194,7 +236,9 @@
 			"gameText": "des Standup-Comedy",
 			"id": "71840",
 			"includesPlayerName": false,
-			"linkedPrompts": "71839",
+			"linkedPrompts": [
+				"71839"
+			],
 			"us": false,
 			"x": true
 		},
@@ -203,7 +247,9 @@
 			"gameText": "des Laktoseintoleranten",
 			"id": "71842",
 			"includesPlayerName": false,
-			"linkedPrompts": "71841",
+			"linkedPrompts": [
+				"71841"
+			],
 			"us": false,
 			"x": true
 		},
@@ -212,7 +258,9 @@
 			"gameText": "der romantischen Fantasien",
 			"id": "71843",
 			"includesPlayerName": false,
-			"linkedPrompts": "71844",
+			"linkedPrompts": [
+				"71844"
+			],
 			"us": false,
 			"x": true
 		},
@@ -221,7 +269,9 @@
 			"gameText": "der Katzen",
 			"id": "71846",
 			"includesPlayerName": false,
-			"linkedPrompts": "71845",
+			"linkedPrompts": [
+				"71845"
+			],
 			"us": false,
 			"x": false
 		},
@@ -230,7 +280,9 @@
 			"gameText": "der Apokalypse",
 			"id": "71847",
 			"includesPlayerName": false,
-			"linkedPrompts": "71849",
+			"linkedPrompts": [
+				"71849"
+			],
 			"us": false,
 			"x": true
 		},
@@ -239,7 +291,9 @@
 			"gameText": "der Höhlen",
 			"id": "71852",
 			"includesPlayerName": false,
-			"linkedPrompts": "71853",
+			"linkedPrompts": [
+				"71853"
+			],
 			"us": false,
 			"x": true
 		},
@@ -248,7 +302,9 @@
 			"gameText": "der Raubüberfälle",
 			"id": "71859",
 			"includesPlayerName": false,
-			"linkedPrompts": "71858",
+			"linkedPrompts": [
+				"71858"
+			],
 			"us": false,
 			"x": true
 		},
@@ -257,7 +313,9 @@
 			"gameText": "der schlechten Angewohnheiten",
 			"id": "71860",
 			"includesPlayerName": false,
-			"linkedPrompts": "71861",
+			"linkedPrompts": [
+				"71861"
+			],
 			"us": false,
 			"x": false
 		},
@@ -266,7 +324,9 @@
 			"gameText": "der Schönheit",
 			"id": "71876",
 			"includesPlayerName": false,
-			"linkedPrompts": "71877",
+			"linkedPrompts": [
+				"71877"
+			],
 			"us": false,
 			"x": false
 		},
@@ -275,7 +335,9 @@
 			"gameText": "der Helden",
 			"id": "71878",
 			"includesPlayerName": false,
-			"linkedPrompts": "71879",
+			"linkedPrompts": [
+				"71879"
+			],
 			"us": false,
 			"x": true
 		},
@@ -284,7 +346,9 @@
 			"gameText": "der wilden Nächte",
 			"id": "71880",
 			"includesPlayerName": false,
-			"linkedPrompts": "71881",
+			"linkedPrompts": [
+				"71881"
+			],
 			"us": false,
 			"x": true
 		},
@@ -293,7 +357,9 @@
 			"gameText": "des Arbeitens",
 			"id": "71882",
 			"includesPlayerName": false,
-			"linkedPrompts": "71883",
+			"linkedPrompts": [
+				"71883"
+			],
 			"us": false,
 			"x": true
 		},
@@ -302,7 +368,9 @@
 			"gameText": "der Briten",
 			"id": "71894",
 			"includesPlayerName": false,
-			"linkedPrompts": "71895",
+			"linkedPrompts": [
+				"71895"
+			],
 			"us": false,
 			"x": false
 		},
@@ -311,7 +379,9 @@
 			"gameText": "der Idioten",
 			"id": "71906",
 			"includesPlayerName": false,
-			"linkedPrompts": "71907",
+			"linkedPrompts": [
+				"71907"
+			],
 			"us": false,
 			"x": true
 		},
@@ -320,7 +390,9 @@
 			"gameText": "der Gewürze",
 			"id": "71908",
 			"includesPlayerName": false,
-			"linkedPrompts": "71909",
+			"linkedPrompts": [
+				"71909"
+			],
 			"us": false,
 			"x": true
 		},
@@ -329,7 +401,9 @@
 			"gameText": "der ungefährlichen Superschurken",
 			"id": "71919",
 			"includesPlayerName": false,
-			"linkedPrompts": "71917",
+			"linkedPrompts": [
+				"71917"
+			],
 			"us": false,
 			"x": false
 		},
@@ -338,7 +412,9 @@
 			"gameText": "der Selbstpflege",
 			"id": "71945",
 			"includesPlayerName": false,
-			"linkedPrompts": "71944",
+			"linkedPrompts": [
+				"71944"
+			],
 			"us": false,
 			"x": true
 		},
@@ -347,7 +423,9 @@
 			"gameText": "der Halluzinationen",
 			"id": "71946",
 			"includesPlayerName": false,
-			"linkedPrompts": "71943",
+			"linkedPrompts": [
+				"71943"
+			],
 			"us": false,
 			"x": true
 		},
@@ -356,7 +434,9 @@
 			"gameText": "der Black Friday Einkäufer",
 			"id": "71973",
 			"includesPlayerName": false,
-			"linkedPrompts": "71972",
+			"linkedPrompts": [
+				"71972"
+			],
 			"us": true,
 			"x": true
 		},
@@ -365,7 +445,9 @@
 			"gameText": "der Schulfotos",
 			"id": "71979",
 			"includesPlayerName": false,
-			"linkedPrompts": "71978",
+			"linkedPrompts": [
+				"71978"
+			],
 			"us": false,
 			"x": true
 		},
@@ -374,7 +456,9 @@
 			"gameText": "der Action Stars",
 			"id": "71985",
 			"includesPlayerName": false,
-			"linkedPrompts": "71984",
+			"linkedPrompts": [
+				"71984"
+			],
 			"us": false,
 			"x": false
 		},
@@ -383,7 +467,9 @@
 			"gameText": "des 'Nicht der Typ schon wieder'",
 			"id": "71989",
 			"includesPlayerName": false,
-			"linkedPrompts": "71988",
+			"linkedPrompts": [
+				"71988"
+			],
 			"us": false,
 			"x": false
 		},
@@ -392,7 +478,9 @@
 			"gameText": "der beeindruckenden Auftritte",
 			"id": "72007",
 			"includesPlayerName": false,
-			"linkedPrompts": "72006",
+			"linkedPrompts": [
+				"72006"
+			],
 			"us": false,
 			"x": false
 		},
@@ -401,7 +489,9 @@
 			"gameText": "der Footballspieler",
 			"id": "72010",
 			"includesPlayerName": false,
-			"linkedPrompts": "72011",
+			"linkedPrompts": [
+				"72011"
+			],
 			"us": true,
 			"x": false
 		},
@@ -410,7 +500,9 @@
 			"gameText": "der Monster",
 			"id": "72014",
 			"includesPlayerName": false,
-			"linkedPrompts": "72015",
+			"linkedPrompts": [
+				"72015"
+			],
 			"us": false,
 			"x": true
 		},
@@ -419,7 +511,9 @@
 			"gameText": "des Fittnessstudios",
 			"id": "72016",
 			"includesPlayerName": false,
-			"linkedPrompts": "72017",
+			"linkedPrompts": [
+				"72017"
+			],
 			"us": false,
 			"x": true
 		},
@@ -428,7 +522,9 @@
 			"gameText": "der gruseligen Puppen",
 			"id": "72024",
 			"includesPlayerName": false,
-			"linkedPrompts": "72025",
+			"linkedPrompts": [
+				"72025"
+			],
 			"us": false,
 			"x": false
 		},
@@ -437,7 +533,9 @@
 			"gameText": "der Suppe",
 			"id": "72028",
 			"includesPlayerName": false,
-			"linkedPrompts": "72029",
+			"linkedPrompts": [
+				"72029"
+			],
 			"us": false,
 			"x": false
 		},
@@ -446,7 +544,9 @@
 			"gameText": "der Hypnose",
 			"id": "72049",
 			"includesPlayerName": false,
-			"linkedPrompts": "72050",
+			"linkedPrompts": [
+				"72050"
+			],
 			"us": false,
 			"x": true
 		},
@@ -455,7 +555,9 @@
 			"gameText": "der gruseligen Kreaturen",
 			"id": "72053",
 			"includesPlayerName": false,
-			"linkedPrompts": "72052",
+			"linkedPrompts": [
+				"72052"
+			],
 			"us": false,
 			"x": false
 		},
@@ -464,7 +566,9 @@
 			"gameText": "der imaginären Freunde",
 			"id": "72054",
 			"includesPlayerName": false,
-			"linkedPrompts": "72056",
+			"linkedPrompts": [
+				"72056"
+			],
 			"us": false,
 			"x": true
 		},
@@ -473,7 +577,9 @@
 			"gameText": "des Mordens",
 			"id": "72073",
 			"includesPlayerName": false,
-			"linkedPrompts": "72074",
+			"linkedPrompts": [
+				"72074"
+			],
 			"us": false,
 			"x": true
 		},
@@ -482,7 +588,9 @@
 			"gameText": "der Überreste",
 			"id": "72108",
 			"includesPlayerName": false,
-			"linkedPrompts": "72540",
+			"linkedPrompts": [
+				"72540"
+			],
 			"us": false,
 			"x": false
 		},
@@ -491,7 +599,9 @@
 			"gameText": "der Bewegung",
 			"id": "72114",
 			"includesPlayerName": false,
-			"linkedPrompts": "72115",
+			"linkedPrompts": [
+				"72115"
+			],
 			"us": false,
 			"x": false
 		},
@@ -500,7 +610,9 @@
 			"gameText": "des Multitasking",
 			"id": "72151",
 			"includesPlayerName": false,
-			"linkedPrompts": "72152",
+			"linkedPrompts": [
+				"72152"
+			],
 			"us": false,
 			"x": false
 		},
@@ -509,7 +621,9 @@
 			"gameText": "des Kennenlernens der Eltern",
 			"id": "72155",
 			"includesPlayerName": false,
-			"linkedPrompts": "72156",
+			"linkedPrompts": [
+				"72156"
+			],
 			"us": false,
 			"x": true
 		},
@@ -518,7 +632,9 @@
 			"gameText": "der Durchschnittlichen",
 			"id": "72157",
 			"includesPlayerName": false,
-			"linkedPrompts": "72158",
+			"linkedPrompts": [
+				"72158"
+			],
 			"us": false,
 			"x": true
 		},
@@ -527,7 +643,9 @@
 			"gameText": "der Gier",
 			"id": "72211",
 			"includesPlayerName": false,
-			"linkedPrompts": "72210",
+			"linkedPrompts": [
+				"72210"
+			],
 			"us": false,
 			"x": true
 		},
@@ -536,7 +654,9 @@
 			"gameText": "des Diabolischen",
 			"id": "72216",
 			"includesPlayerName": false,
-			"linkedPrompts": "71760",
+			"linkedPrompts": [
+				"71760"
+			],
 			"us": false,
 			"x": false
 		},
@@ -545,7 +665,9 @@
 			"gameText": "der Muskelkraft",
 			"id": "72218",
 			"includesPlayerName": false,
-			"linkedPrompts": "72217",
+			"linkedPrompts": [
+				"72217"
+			],
 			"us": false,
 			"x": false
 		},
@@ -554,7 +676,9 @@
 			"gameText": "des fantastischen Geruchs",
 			"id": "72233",
 			"includesPlayerName": false,
-			"linkedPrompts": "72231",
+			"linkedPrompts": [
+				"72231"
+			],
 			"us": false,
 			"x": false
 		},
@@ -563,7 +687,9 @@
 			"gameText": "des Rock 'n Roll",
 			"id": "72266",
 			"includesPlayerName": false,
-			"linkedPrompts": "72265",
+			"linkedPrompts": [
+				"72265"
+			],
 			"us": false,
 			"x": true
 		},
@@ -572,7 +698,9 @@
 			"gameText": "des Schöngeister",
 			"id": "72275",
 			"includesPlayerName": false,
-			"linkedPrompts": "72274",
+			"linkedPrompts": [
+				"72274"
+			],
 			"us": false,
 			"x": true
 		},
@@ -581,7 +709,9 @@
 			"gameText": "des Tanzens, als wär niemand da",
 			"id": "72300",
 			"includesPlayerName": false,
-			"linkedPrompts": "72299",
+			"linkedPrompts": [
+				"72299"
+			],
 			"us": false,
 			"x": false
 		},
@@ -590,7 +720,9 @@
 			"gameText": "des Glücksspiel",
 			"id": "72304",
 			"includesPlayerName": false,
-			"linkedPrompts": "72303",
+			"linkedPrompts": [
+				"72303"
+			],
 			"us": false,
 			"x": true
 		},
@@ -599,7 +731,9 @@
 			"gameText": "der Kerle",
 			"id": "72317",
 			"includesPlayerName": false,
-			"linkedPrompts": "72316",
+			"linkedPrompts": [
+				"72316"
+			],
 			"us": true,
 			"x": true
 		},
@@ -608,7 +742,9 @@
 			"gameText": "der Scherzkekse",
 			"id": "72318",
 			"includesPlayerName": false,
-			"linkedPrompts": "72320",
+			"linkedPrompts": [
+				"72320"
+			],
 			"us": false,
 			"x": false
 		},
@@ -617,7 +753,9 @@
 			"gameText": "des Dubstep",
 			"id": "72324",
 			"includesPlayerName": false,
-			"linkedPrompts": "72326",
+			"linkedPrompts": [
+				"72326"
+			],
 			"us": false,
 			"x": true
 		},
@@ -626,7 +764,9 @@
 			"gameText": "der Mülldeponie",
 			"id": "72330",
 			"includesPlayerName": false,
-			"linkedPrompts": "72331",
+			"linkedPrompts": [
+				"72331"
+			],
 			"us": false,
 			"x": false
 		},
@@ -635,7 +775,9 @@
 			"gameText": "der abgelehnten Bibelfiguren",
 			"id": "72333",
 			"includesPlayerName": false,
-			"linkedPrompts": "72334",
+			"linkedPrompts": [
+				"72334"
+			],
 			"us": false,
 			"x": true
 		},
@@ -644,7 +786,9 @@
 			"gameText": "der Riesen",
 			"id": "72338",
 			"includesPlayerName": false,
-			"linkedPrompts": "72339",
+			"linkedPrompts": [
+				"72339"
+			],
 			"us": false,
 			"x": false
 		},
@@ -653,7 +797,9 @@
 			"gameText": "der Idioten",
 			"id": "72341",
 			"includesPlayerName": false,
-			"linkedPrompts": "72342",
+			"linkedPrompts": [
+				"72342"
+			],
 			"us": false,
 			"x": true
 		},
@@ -662,7 +808,9 @@
 			"gameText": "der klapprigen Festplätze",
 			"id": "72370",
 			"includesPlayerName": false,
-			"linkedPrompts": "72371",
+			"linkedPrompts": [
+				"72371"
+			],
 			"us": false,
 			"x": true
 		},
@@ -671,7 +819,9 @@
 			"gameText": "der Gefahr",
 			"id": "72390",
 			"includesPlayerName": false,
-			"linkedPrompts": "72381",
+			"linkedPrompts": [
+				"72381"
+			],
 			"us": false,
 			"x": true
 		},
@@ -680,7 +830,9 @@
 			"gameText": "des Aussehens",
 			"id": "72443",
 			"includesPlayerName": false,
-			"linkedPrompts": "72444",
+			"linkedPrompts": [
+				"72444"
+			],
 			"us": false,
 			"x": true
 		},
@@ -689,7 +841,9 @@
 			"gameText": "des niedrigen Selbstbewusstseins",
 			"id": "72450",
 			"includesPlayerName": false,
-			"linkedPrompts": "71336",
+			"linkedPrompts": [
+				"71336"
+			],
 			"us": false,
 			"x": true
 		},
@@ -698,7 +852,9 @@
 			"gameText": "des ewigen Alleinseins",
 			"id": "72467",
 			"includesPlayerName": false,
-			"linkedPrompts": "72470",
+			"linkedPrompts": [
+				"72470"
+			],
 			"us": true,
 			"x": true
 		},
@@ -707,7 +863,9 @@
 			"gameText": "der Verkleidung",
 			"id": "72485",
 			"includesPlayerName": false,
-			"linkedPrompts": "72484",
+			"linkedPrompts": [
+				"72484"
+			],
 			"us": false,
 			"x": false
 		},
@@ -716,7 +874,9 @@
 			"gameText": "der Introvertierten",
 			"id": "72520",
 			"includesPlayerName": false,
-			"linkedPrompts": "72519",
+			"linkedPrompts": [
+				"72519"
+			],
 			"us": false,
 			"x": true
 		},
@@ -725,7 +885,9 @@
 			"gameText": "des Lebens unter einer Brücke",
 			"id": "72571",
 			"includesPlayerName": false,
-			"linkedPrompts": "72572",
+			"linkedPrompts": [
+				"72572"
+			],
 			"us": false,
 			"x": false
 		},
@@ -734,7 +896,9 @@
 			"gameText": "der Laborunfälle",
 			"id": "72577",
 			"includesPlayerName": false,
-			"linkedPrompts": "72270",
+			"linkedPrompts": [
+				"72270"
+			],
 			"us": false,
 			"x": true
 		},
@@ -743,7 +907,9 @@
 			"gameText": "der guten Laune",
 			"id": "72657",
 			"includesPlayerName": false,
-			"linkedPrompts": "72655",
+			"linkedPrompts": [
+				"72655"
+			],
 			"us": false,
 			"x": true
 		},
@@ -752,7 +918,9 @@
 			"gameText": "der Spione",
 			"id": "72661",
 			"includesPlayerName": false,
-			"linkedPrompts": "72662",
+			"linkedPrompts": [
+				"72662"
+			],
 			"us": false,
 			"x": true
 		},
@@ -761,7 +929,9 @@
 			"gameText": "der Anonymen",
 			"id": "72667",
 			"includesPlayerName": false,
-			"linkedPrompts": "72668",
+			"linkedPrompts": [
+				"72668"
+			],
 			"us": false,
 			"x": false
 		},
@@ -770,7 +940,9 @@
 			"gameText": "des Blutbads",
 			"id": "72671",
 			"includesPlayerName": false,
-			"linkedPrompts": "72672",
+			"linkedPrompts": [
+				"72672"
+			],
 			"us": false,
 			"x": true
 		},
@@ -779,7 +951,9 @@
 			"gameText": "der Mürrischkeit",
 			"id": "72683",
 			"includesPlayerName": false,
-			"linkedPrompts": "72684",
+			"linkedPrompts": [
+				"72684"
+			],
 			"us": false,
 			"x": false
 		},
@@ -788,7 +962,9 @@
 			"gameText": "der Töpferläden",
 			"id": "72690",
 			"includesPlayerName": false,
-			"linkedPrompts": "72691",
+			"linkedPrompts": [
+				"72691"
+			],
 			"us": true,
 			"x": false
 		},
@@ -797,7 +973,9 @@
 			"gameText": "der Männerhöhlen",
 			"id": "72692",
 			"includesPlayerName": false,
-			"linkedPrompts": "70184",
+			"linkedPrompts": [
+				"70184"
+			],
 			"us": false,
 			"x": true
 		},
@@ -806,7 +984,9 @@
 			"gameText": "der Aristokraten",
 			"id": "72694",
 			"includesPlayerName": false,
-			"linkedPrompts": "72695",
+			"linkedPrompts": [
+				"72695"
+			],
 			"us": false,
 			"x": true
 		},
@@ -815,7 +995,9 @@
 			"gameText": "der zukünftigen Hollywood Stars",
 			"id": "72891",
 			"includesPlayerName": false,
-			"linkedPrompts": "72892",
+			"linkedPrompts": [
+				"72892"
+			],
 			"us": false,
 			"x": true
 		},
@@ -824,7 +1006,9 @@
 			"gameText": "der CEOs",
 			"id": "72895",
 			"includesPlayerName": false,
-			"linkedPrompts": "72896",
+			"linkedPrompts": [
+				"72896"
+			],
 			"us": false,
 			"x": true
 		},
@@ -833,7 +1017,9 @@
 			"gameText": "der Bürokratie",
 			"id": "72899",
 			"includesPlayerName": false,
-			"linkedPrompts": "72900",
+			"linkedPrompts": [
+				"72900"
+			],
 			"us": false,
 			"x": true
 		},
@@ -842,7 +1028,9 @@
 			"gameText": "von TikTok",
 			"id": "72901",
 			"includesPlayerName": false,
-			"linkedPrompts": "72902",
+			"linkedPrompts": [
+				"72902"
+			],
 			"us": false,
 			"x": false
 		},
@@ -851,7 +1039,9 @@
 			"gameText": "des Grauens",
 			"id": "72914",
 			"includesPlayerName": false,
-			"linkedPrompts": "72913",
+			"linkedPrompts": [
+				"72913"
+			],
 			"us": false,
 			"x": true
 		},
@@ -860,7 +1050,9 @@
 			"gameText": "des Entdeckens",
 			"id": "72952",
 			"includesPlayerName": false,
-			"linkedPrompts": "72951",
+			"linkedPrompts": [
+				"72951"
+			],
 			"us": false,
 			"x": false
 		},
@@ -869,7 +1061,9 @@
 			"gameText": "des Vertrauens",
 			"id": "72956",
 			"includesPlayerName": false,
-			"linkedPrompts": "72955",
+			"linkedPrompts": [
+				"72955"
+			],
 			"us": false,
 			"x": true
 		},
@@ -878,7 +1072,9 @@
 			"gameText": "der radikalen Mitte",
 			"id": "72958",
 			"includesPlayerName": false,
-			"linkedPrompts": "72957",
+			"linkedPrompts": [
+				"72957"
+			],
 			"us": false,
 			"x": false
 		},
@@ -887,7 +1083,9 @@
 			"gameText": "der Gelassenheit",
 			"id": "72960",
 			"includesPlayerName": false,
-			"linkedPrompts": "72959",
+			"linkedPrompts": [
+				"72959"
+			],
 			"us": false,
 			"x": false
 		},
@@ -896,7 +1094,9 @@
 			"gameText": "der extremen Fans",
 			"id": "72995",
 			"includesPlayerName": false,
-			"linkedPrompts": "72993",
+			"linkedPrompts": [
+				"72993"
+			],
 			"us": false,
 			"x": false
 		},
@@ -905,7 +1105,9 @@
 			"gameText": "der zurecht unerfolgreichen Märchen",
 			"id": "73046",
 			"includesPlayerName": false,
-			"linkedPrompts": "73045",
+			"linkedPrompts": [
+				"73045"
+			],
 			"us": false,
 			"x": true
 		},
@@ -914,7 +1116,9 @@
 			"gameText": "der Natur",
 			"id": "73110",
 			"includesPlayerName": false,
-			"linkedPrompts": "73111",
+			"linkedPrompts": [
+				"73111"
+			],
 			"us": false,
 			"x": false
 		},
@@ -923,7 +1127,9 @@
 			"gameText": "der coolen Jugendlichen",
 			"id": "73151",
 			"includesPlayerName": false,
-			"linkedPrompts": "73152",
+			"linkedPrompts": [
+				"73152"
+			],
 			"us": false,
 			"x": false
 		},
@@ -932,7 +1138,9 @@
 			"gameText": "der Prinzessinen",
 			"id": "73176",
 			"includesPlayerName": false,
-			"linkedPrompts": "73177",
+			"linkedPrompts": [
+				"73177"
+			],
 			"us": false,
 			"x": true
 		},
@@ -941,7 +1149,9 @@
 			"gameText": "des Broadways",
 			"id": "73317",
 			"includesPlayerName": false,
-			"linkedPrompts": "73316",
+			"linkedPrompts": [
+				"73316"
+			],
 			"us": false,
 			"x": true
 		},
@@ -950,7 +1160,9 @@
 			"gameText": "des Sumpfes",
 			"id": "73323",
 			"includesPlayerName": false,
-			"linkedPrompts": "73322",
+			"linkedPrompts": [
+				"73322"
+			],
 			"us": false,
 			"x": false
 		},
@@ -959,7 +1171,9 @@
 			"gameText": "der Partys",
 			"id": "73340",
 			"includesPlayerName": false,
-			"linkedPrompts": "73339",
+			"linkedPrompts": [
+				"73339"
+			],
 			"us": false,
 			"x": false
 		},
@@ -968,7 +1182,9 @@
 			"gameText": "der Bingo-Nacht",
 			"id": "73363",
 			"includesPlayerName": false,
-			"linkedPrompts": "73362",
+			"linkedPrompts": [
+				"73362"
+			],
 			"us": false,
 			"x": false
 		},
@@ -977,7 +1193,9 @@
 			"gameText": "des Ruhestandes",
 			"id": "73397",
 			"includesPlayerName": false,
-			"linkedPrompts": "74852",
+			"linkedPrompts": [
+				"74852"
+			],
 			"us": false,
 			"x": true
 		},
@@ -986,7 +1204,9 @@
 			"gameText": "der Staubsaugervertreter",
 			"id": "73413",
 			"includesPlayerName": false,
-			"linkedPrompts": "72743",
+			"linkedPrompts": [
+				"72743"
+			],
 			"us": false,
 			"x": false
 		},
@@ -995,7 +1215,9 @@
 			"gameText": "des Steampunk",
 			"id": "73885",
 			"includesPlayerName": false,
-			"linkedPrompts": "73884",
+			"linkedPrompts": [
+				"73884"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1004,7 +1226,9 @@
 			"gameText": "der Höhle",
 			"id": "73889",
 			"includesPlayerName": false,
-			"linkedPrompts": "73888",
+			"linkedPrompts": [
+				"73888"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1013,7 +1237,9 @@
 			"gameText": "des Ausrastens",
 			"id": "73896",
 			"includesPlayerName": false,
-			"linkedPrompts": "72897",
+			"linkedPrompts": [
+				"72897"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1022,7 +1248,9 @@
 			"gameText": "der starken Auras",
 			"id": "73916",
 			"includesPlayerName": false,
-			"linkedPrompts": "73917",
+			"linkedPrompts": [
+				"73917"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1031,7 +1259,9 @@
 			"gameText": "der Verklemmtheit",
 			"id": "73926",
 			"includesPlayerName": false,
-			"linkedPrompts": "73927",
+			"linkedPrompts": [
+				"73927"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1040,7 +1270,9 @@
 			"gameText": "der Machos",
 			"id": "73938",
 			"includesPlayerName": false,
-			"linkedPrompts": "73939",
+			"linkedPrompts": [
+				"73939"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1049,7 +1281,9 @@
 			"gameText": "der Stunts",
 			"id": "73941",
 			"includesPlayerName": false,
-			"linkedPrompts": "73940",
+			"linkedPrompts": [
+				"73940"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1058,7 +1292,9 @@
 			"gameText": "des Makaberen",
 			"id": "73942",
 			"includesPlayerName": false,
-			"linkedPrompts": "73943",
+			"linkedPrompts": [
+				"73943"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1067,7 +1303,9 @@
 			"gameText": "des Lampenfiebers",
 			"id": "73978",
 			"includesPlayerName": false,
-			"linkedPrompts": "73976",
+			"linkedPrompts": [
+				"73976"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1076,7 +1314,9 @@
 			"gameText": "der Magier",
 			"id": "73990",
 			"includesPlayerName": false,
-			"linkedPrompts": "73991",
+			"linkedPrompts": [
+				"73991"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1085,7 +1325,9 @@
 			"gameText": "der Kramschublade",
 			"id": "73992",
 			"includesPlayerName": false,
-			"linkedPrompts": "73993",
+			"linkedPrompts": [
+				"73993"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1094,7 +1336,9 @@
 			"gameText": "der frühen Schlafenszeit",
 			"id": "73995",
 			"includesPlayerName": false,
-			"linkedPrompts": "74000",
+			"linkedPrompts": [
+				"74000"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1103,7 +1347,9 @@
 			"gameText": "der Kriminellen",
 			"id": "74007",
 			"includesPlayerName": false,
-			"linkedPrompts": "74008",
+			"linkedPrompts": [
+				"74008"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1112,7 +1358,9 @@
 			"gameText": "der Hochbegabten",
 			"id": "74053",
 			"includesPlayerName": false,
-			"linkedPrompts": "74057",
+			"linkedPrompts": [
+				"74057"
+			],
 			"us": true,
 			"x": false
 		},
@@ -1121,7 +1369,9 @@
 			"gameText": "des Reisens",
 			"id": "74058",
 			"includesPlayerName": false,
-			"linkedPrompts": "74059",
+			"linkedPrompts": [
+				"74059"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1130,7 +1380,9 @@
 			"gameText": "der Fantasie von jungen Erwachsenen",
 			"id": "74093",
 			"includesPlayerName": false,
-			"linkedPrompts": "74094",
+			"linkedPrompts": [
+				"74094"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1139,7 +1391,9 @@
 			"gameText": "der Hipster",
 			"id": "74095",
 			"includesPlayerName": false,
-			"linkedPrompts": "71291",
+			"linkedPrompts": [
+				"71291"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1148,7 +1402,9 @@
 			"gameText": "der Comic-Con",
 			"id": "74103",
 			"includesPlayerName": false,
-			"linkedPrompts": "74104",
+			"linkedPrompts": [
+				"74104"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1157,7 +1413,9 @@
 			"gameText": "der ehemaligen Kinderstars",
 			"id": "74119",
 			"includesPlayerName": false,
-			"linkedPrompts": "74118",
+			"linkedPrompts": [
+				"74118"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1166,7 +1424,9 @@
 			"gameText": "des Cosplay",
 			"id": "74144",
 			"includesPlayerName": false,
-			"linkedPrompts": "74145",
+			"linkedPrompts": [
+				"74145"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1175,7 +1435,9 @@
 			"gameText": "der nervigen Eltern",
 			"id": "74157",
 			"includesPlayerName": false,
-			"linkedPrompts": "74142",
+			"linkedPrompts": [
+				"74142"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1184,7 +1446,9 @@
 			"gameText": "des Rumpöbelns",
 			"id": "74265",
 			"includesPlayerName": false,
-			"linkedPrompts": "74264",
+			"linkedPrompts": [
+				"74264"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1193,7 +1457,9 @@
 			"gameText": "des Königlichen",
 			"id": "74359",
 			"includesPlayerName": false,
-			"linkedPrompts": "74360",
+			"linkedPrompts": [
+				"74360"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1202,7 +1468,9 @@
 			"gameText": "der Makeup-Tutorials",
 			"id": "74365",
 			"includesPlayerName": false,
-			"linkedPrompts": "74366",
+			"linkedPrompts": [
+				"74366"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1211,7 +1479,9 @@
 			"gameText": "des FKK Strandes",
 			"id": "74367",
 			"includesPlayerName": false,
-			"linkedPrompts": "74368",
+			"linkedPrompts": [
+				"74368"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1220,7 +1490,9 @@
 			"gameText": "der Kirmeslieder",
 			"id": "74635",
 			"includesPlayerName": false,
-			"linkedPrompts": "74634",
+			"linkedPrompts": [
+				"74634"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1229,7 +1501,9 @@
 			"gameText": "der Extrovertierten",
 			"id": "74637",
 			"includesPlayerName": false,
-			"linkedPrompts": "74636",
+			"linkedPrompts": [
+				"74636"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1238,7 +1512,9 @@
 			"gameText": "der zensierten Computerspiele",
 			"id": "74639",
 			"includesPlayerName": false,
-			"linkedPrompts": "74638",
+			"linkedPrompts": [
+				"74638"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1247,7 +1523,9 @@
 			"gameText": "des seltsamen Aussehens",
 			"id": "74641",
 			"includesPlayerName": false,
-			"linkedPrompts": "74640",
+			"linkedPrompts": [
+				"74640"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1256,7 +1534,9 @@
 			"gameText": "der Soziopathen",
 			"id": "74643",
 			"includesPlayerName": false,
-			"linkedPrompts": "74642",
+			"linkedPrompts": [
+				"74642"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1265,7 +1545,9 @@
 			"gameText": "der grossen Energie",
 			"id": "74645",
 			"includesPlayerName": false,
-			"linkedPrompts": "74644",
+			"linkedPrompts": [
+				"74644"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1274,7 +1556,9 @@
 			"gameText": "der Lebhaftigkeit",
 			"id": "74647",
 			"includesPlayerName": false,
-			"linkedPrompts": "74646",
+			"linkedPrompts": [
+				"74646"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1283,7 +1567,9 @@
 			"gameText": "des \"Ganz oder Gar nicht\"",
 			"id": "74649",
 			"includesPlayerName": false,
-			"linkedPrompts": "74648",
+			"linkedPrompts": [
+				"74648"
+			],
 			"us": true,
 			"x": true
 		},
@@ -1292,7 +1578,9 @@
 			"gameText": "der Touristen",
 			"id": "74651",
 			"includesPlayerName": false,
-			"linkedPrompts": "74650",
+			"linkedPrompts": [
+				"74650"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1301,7 +1589,9 @@
 			"gameText": "der Bettwäsche",
 			"id": "74653",
 			"includesPlayerName": false,
-			"linkedPrompts": "74652",
+			"linkedPrompts": [
+				"74652"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1310,7 +1600,9 @@
 			"gameText": "der Blähungen",
 			"id": "74655",
 			"includesPlayerName": false,
-			"linkedPrompts": "74654",
+			"linkedPrompts": [
+				"74654"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1319,7 +1611,9 @@
 			"gameText": "der Hauptverdächtigen",
 			"id": "74657",
 			"includesPlayerName": false,
-			"linkedPrompts": "74656",
+			"linkedPrompts": [
+				"74656"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1328,7 +1622,9 @@
 			"gameText": "der Langeweile",
 			"id": "74659",
 			"includesPlayerName": false,
-			"linkedPrompts": "74658",
+			"linkedPrompts": [
+				"74658"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1337,7 +1633,9 @@
 			"gameText": "der Punks",
 			"id": "74661",
 			"includesPlayerName": false,
-			"linkedPrompts": "74660",
+			"linkedPrompts": [
+				"74660"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1346,7 +1644,9 @@
 			"gameText": "der DJs",
 			"id": "74663",
 			"includesPlayerName": false,
-			"linkedPrompts": "74662",
+			"linkedPrompts": [
+				"74662"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1355,7 +1655,9 @@
 			"gameText": "der Kaffeekränzchen",
 			"id": "74665",
 			"includesPlayerName": false,
-			"linkedPrompts": "74664",
+			"linkedPrompts": [
+				"74664"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1364,7 +1666,9 @@
 			"gameText": "der Schlaflosigkeit",
 			"id": "74667",
 			"includesPlayerName": false,
-			"linkedPrompts": "74666",
+			"linkedPrompts": [
+				"74666"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1373,7 +1677,9 @@
 			"gameText": "der Parasiten",
 			"id": "74669",
 			"includesPlayerName": false,
-			"linkedPrompts": "74668",
+			"linkedPrompts": [
+				"74668"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1382,7 +1688,9 @@
 			"gameText": "der Auftragskiller",
 			"id": "74671",
 			"includesPlayerName": false,
-			"linkedPrompts": "74670",
+			"linkedPrompts": [
+				"74670"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1391,7 +1699,9 @@
 			"gameText": "des Escape Rooms",
 			"id": "74673",
 			"includesPlayerName": false,
-			"linkedPrompts": "74672",
+			"linkedPrompts": [
+				"74672"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1400,7 +1710,9 @@
 			"gameText": "der Praktikanten",
 			"id": "74675",
 			"includesPlayerName": false,
-			"linkedPrompts": "74674",
+			"linkedPrompts": [
+				"74674"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1409,7 +1721,9 @@
 			"gameText": "der Erbsenzähler",
 			"id": "74677",
 			"includesPlayerName": false,
-			"linkedPrompts": "74676",
+			"linkedPrompts": [
+				"74676"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1418,7 +1732,9 @@
 			"gameText": "der Yachts",
 			"id": "74679",
 			"includesPlayerName": false,
-			"linkedPrompts": "74678",
+			"linkedPrompts": [
+				"74678"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1427,7 +1743,9 @@
 			"gameText": "der Gerüchteküche",
 			"id": "74681",
 			"includesPlayerName": false,
-			"linkedPrompts": "74680",
+			"linkedPrompts": [
+				"74680"
+			],
 			"us": true,
 			"x": false
 		},
@@ -1436,7 +1754,9 @@
 			"gameText": "des Glamours",
 			"id": "74683",
 			"includesPlayerName": false,
-			"linkedPrompts": "74682",
+			"linkedPrompts": [
+				"74682"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1445,7 +1765,9 @@
 			"gameText": "der grossen Sachen",
 			"id": "74685",
 			"includesPlayerName": false,
-			"linkedPrompts": "74684",
+			"linkedPrompts": [
+				"74684"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1454,7 +1776,9 @@
 			"gameText": "des Leute \"Gutmenschen\" nennens",
 			"id": "74687",
 			"includesPlayerName": false,
-			"linkedPrompts": "74686",
+			"linkedPrompts": [
+				"74686"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1463,7 +1787,9 @@
 			"gameText": "des Ballermann",
 			"id": "74689",
 			"includesPlayerName": false,
-			"linkedPrompts": "74688",
+			"linkedPrompts": [
+				"74688"
+			],
 			"us": true,
 			"x": true
 		},
@@ -1472,7 +1798,9 @@
 			"gameText": "des Lebens an der Küste",
 			"id": "74691",
 			"includesPlayerName": false,
-			"linkedPrompts": "74690",
+			"linkedPrompts": [
+				"74690"
+			],
 			"us": true,
 			"x": false
 		},
@@ -1481,7 +1809,9 @@
 			"gameText": "der Schnapsdrosseln",
 			"id": "74693",
 			"includesPlayerName": false,
-			"linkedPrompts": "74692",
+			"linkedPrompts": [
+				"74692"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1490,7 +1820,9 @@
 			"gameText": "des Amtsgerichts",
 			"id": "74695",
 			"includesPlayerName": false,
-			"linkedPrompts": "74694",
+			"linkedPrompts": [
+				"74694"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1499,7 +1831,9 @@
 			"gameText": "des Herzklopfens",
 			"id": "74703",
 			"includesPlayerName": false,
-			"linkedPrompts": "74702",
+			"linkedPrompts": [
+				"74702"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1508,7 +1842,9 @@
 			"gameText": "der Volksmusik",
 			"id": "74705",
 			"includesPlayerName": false,
-			"linkedPrompts": "74704",
+			"linkedPrompts": [
+				"74704"
+			],
 			"us": true,
 			"x": true
 		},
@@ -1517,7 +1853,9 @@
 			"gameText": "der Tyrannen",
 			"id": "74707",
 			"includesPlayerName": false,
-			"linkedPrompts": "74706",
+			"linkedPrompts": [
+				"74706"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1526,7 +1864,9 @@
 			"gameText": "der Gefangenenfotos",
 			"id": "74709",
 			"includesPlayerName": false,
-			"linkedPrompts": "74708",
+			"linkedPrompts": [
+				"74708"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1535,7 +1875,9 @@
 			"gameText": "der dunklen Mächte",
 			"id": "74711",
 			"includesPlayerName": false,
-			"linkedPrompts": "74710",
+			"linkedPrompts": [
+				"74710"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1544,7 +1886,9 @@
 			"gameText": "der Gebrauchtwarenhändler",
 			"id": "74713",
 			"includesPlayerName": false,
-			"linkedPrompts": "74712",
+			"linkedPrompts": [
+				"74712"
+			],
 			"us": true,
 			"x": false
 		},
@@ -1553,7 +1897,9 @@
 			"gameText": "der verrückten Spinner",
 			"id": "74715",
 			"includesPlayerName": false,
-			"linkedPrompts": "74714",
+			"linkedPrompts": [
+				"74714"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1562,7 +1908,9 @@
 			"gameText": "der komplizierten Brettspiele",
 			"id": "74717",
 			"includesPlayerName": false,
-			"linkedPrompts": "74716",
+			"linkedPrompts": [
+				"74716"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1571,7 +1919,9 @@
 			"gameText": "der Kneipen",
 			"id": "74725",
 			"includesPlayerName": false,
-			"linkedPrompts": "74724",
+			"linkedPrompts": [
+				"74724"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1580,7 +1930,9 @@
 			"gameText": "der Gerüchte",
 			"id": "74726",
 			"includesPlayerName": false,
-			"linkedPrompts": "71807",
+			"linkedPrompts": [
+				"71807"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1589,7 +1941,9 @@
 			"gameText": "der Discounterkunden",
 			"id": "74728",
 			"includesPlayerName": false,
-			"linkedPrompts": "74727",
+			"linkedPrompts": [
+				"74727"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1598,7 +1952,9 @@
 			"gameText": "der Frechheit",
 			"id": "74730",
 			"includesPlayerName": false,
-			"linkedPrompts": "74729",
+			"linkedPrompts": [
+				"74729"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1607,7 +1963,9 @@
 			"gameText": "der unangenehmen Nachbarn",
 			"id": "74732",
 			"includesPlayerName": false,
-			"linkedPrompts": "74731",
+			"linkedPrompts": [
+				"74731"
+			],
 			"us": true,
 			"x": false
 		},
@@ -1616,7 +1974,9 @@
 			"gameText": "der magischen Kreaturen",
 			"id": "74734",
 			"includesPlayerName": false,
-			"linkedPrompts": "74733",
+			"linkedPrompts": [
+				"74733"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1625,7 +1985,9 @@
 			"gameText": "der Drogensucht",
 			"id": "74736",
 			"includesPlayerName": false,
-			"linkedPrompts": "74735",
+			"linkedPrompts": [
+				"74735"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1634,7 +1996,9 @@
 			"gameText": "der Dorftrottel",
 			"id": "74737",
 			"includesPlayerName": false,
-			"linkedPrompts": "69792",
+			"linkedPrompts": [
+				"69792"
+			],
 			"us": true,
 			"x": true
 		},
@@ -1643,7 +2007,9 @@
 			"gameText": "der Halluzinationen",
 			"id": "74738",
 			"includesPlayerName": false,
-			"linkedPrompts": "69847",
+			"linkedPrompts": [
+				"69847"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1652,7 +2018,9 @@
 			"gameText": "des Hochzeitsempfangs",
 			"id": "74740",
 			"includesPlayerName": false,
-			"linkedPrompts": "74739",
+			"linkedPrompts": [
+				"74739"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1661,7 +2029,9 @@
 			"gameText": "des Datens",
 			"id": "74742",
 			"includesPlayerName": false,
-			"linkedPrompts": "74741",
+			"linkedPrompts": [
+				"74741"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1670,7 +2040,9 @@
 			"gameText": "des Anmuts",
 			"id": "74744",
 			"includesPlayerName": false,
-			"linkedPrompts": "74743",
+			"linkedPrompts": [
+				"74743"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1679,7 +2051,9 @@
 			"gameText": "des Bummelns",
 			"id": "74748",
 			"includesPlayerName": false,
-			"linkedPrompts": "74747",
+			"linkedPrompts": [
+				"74747"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1688,7 +2062,9 @@
 			"gameText": "des ahnungslosen Blicks",
 			"id": "74752",
 			"includesPlayerName": false,
-			"linkedPrompts": "74751",
+			"linkedPrompts": [
+				"74751"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1697,7 +2073,9 @@
 			"gameText": "der Kampfkünste",
 			"id": "74832",
 			"includesPlayerName": false,
-			"linkedPrompts": "74831",
+			"linkedPrompts": [
+				"74831"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1706,7 +2084,9 @@
 			"gameText": "des Verlorenseins",
 			"id": "74834",
 			"includesPlayerName": false,
-			"linkedPrompts": "74833",
+			"linkedPrompts": [
+				"74833"
+			],
 			"us": true,
 			"x": true
 		},
@@ -1715,7 +2095,9 @@
 			"gameText": "im ein schlechter Mensch sein",
 			"id": "74836",
 			"includesPlayerName": false,
-			"linkedPrompts": "74835",
+			"linkedPrompts": [
+				"74835"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1724,7 +2106,9 @@
 			"gameText": "der Sommerschlussverkaufs",
 			"id": "74838",
 			"includesPlayerName": false,
-			"linkedPrompts": "74837",
+			"linkedPrompts": [
+				"74837"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1733,7 +2117,9 @@
 			"gameText": "der Reife",
 			"id": "74841",
 			"includesPlayerName": false,
-			"linkedPrompts": "74840",
+			"linkedPrompts": [
+				"74840"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1742,7 +2128,9 @@
 			"gameText": "von Schock und Ehrfurcht",
 			"id": "74846",
 			"includesPlayerName": false,
-			"linkedPrompts": "74845",
+			"linkedPrompts": [
+				"74845"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1751,7 +2139,9 @@
 			"gameText": "der Bosheit",
 			"id": "74848",
 			"includesPlayerName": false,
-			"linkedPrompts": "68684",
+			"linkedPrompts": [
+				"68684"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1760,7 +2150,9 @@
 			"gameText": "der Faulheit",
 			"id": "74851",
 			"includesPlayerName": false,
-			"linkedPrompts": "74850",
+			"linkedPrompts": [
+				"74850"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1769,7 +2161,9 @@
 			"gameText": "der Niedlichkeit",
 			"id": "74954",
 			"includesPlayerName": false,
-			"linkedPrompts": "74953",
+			"linkedPrompts": [
+				"74953"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1778,7 +2172,9 @@
 			"gameText": "der Rätsel",
 			"id": "74960",
 			"includesPlayerName": false,
-			"linkedPrompts": "74959",
+			"linkedPrompts": [
+				"74959"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1787,7 +2183,9 @@
 			"gameText": "des immer auf Facebok online seins",
 			"id": "74970",
 			"includesPlayerName": false,
-			"linkedPrompts": "74969",
+			"linkedPrompts": [
+				"74969"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1796,7 +2194,9 @@
 			"gameText": "der Launenhaftigkeit",
 			"id": "75615",
 			"includesPlayerName": false,
-			"linkedPrompts": "75614",
+			"linkedPrompts": [
+				"75614"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1805,7 +2205,9 @@
 			"gameText": "der verrückten Typen",
 			"id": "75617",
 			"includesPlayerName": false,
-			"linkedPrompts": "75616",
+			"linkedPrompts": [
+				"75616"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1814,7 +2216,9 @@
 			"gameText": "der Verzweifelten",
 			"id": "75619",
 			"includesPlayerName": false,
-			"linkedPrompts": "75618",
+			"linkedPrompts": [
+				"75618"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1823,7 +2227,9 @@
 			"gameText": "der fiktiven Berühmtheiten",
 			"id": "75621",
 			"includesPlayerName": false,
-			"linkedPrompts": "75620",
+			"linkedPrompts": [
+				"75620"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1832,7 +2238,9 @@
 			"gameText": "der Positivität",
 			"id": "75624",
 			"includesPlayerName": false,
-			"linkedPrompts": "75622",
+			"linkedPrompts": [
+				"75622"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1841,7 +2249,9 @@
 			"gameText": "des Wichtig-Seins",
 			"id": "75626",
 			"includesPlayerName": false,
-			"linkedPrompts": "75625",
+			"linkedPrompts": [
+				"75625"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1850,7 +2260,9 @@
 			"gameText": "des Bunkers",
 			"id": "75628",
 			"includesPlayerName": false,
-			"linkedPrompts": "75627",
+			"linkedPrompts": [
+				"75627"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1859,7 +2271,9 @@
 			"gameText": "der Opferrolle",
 			"id": "76008",
 			"includesPlayerName": false,
-			"linkedPrompts": "76007",
+			"linkedPrompts": [
+				"76007"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1868,7 +2282,9 @@
 			"gameText": "der Villen",
 			"id": "76010",
 			"includesPlayerName": false,
-			"linkedPrompts": "76009",
+			"linkedPrompts": [
+				"76009"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1877,7 +2293,9 @@
 			"gameText": "des Campings",
 			"id": "76012",
 			"includesPlayerName": false,
-			"linkedPrompts": "76011",
+			"linkedPrompts": [
+				"76011"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1886,7 +2304,9 @@
 			"gameText": "der öffentlichen Ausraster",
 			"id": "76014",
 			"includesPlayerName": false,
-			"linkedPrompts": "76013",
+			"linkedPrompts": [
+				"76013"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1895,7 +2315,9 @@
 			"gameText": "des Home-Schoolings",
 			"id": "76016",
 			"includesPlayerName": false,
-			"linkedPrompts": "76015",
+			"linkedPrompts": [
+				"76015"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1904,7 +2326,9 @@
 			"gameText": "der Talentshow",
 			"id": "76018",
 			"includesPlayerName": false,
-			"linkedPrompts": "76017",
+			"linkedPrompts": [
+				"76017"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1913,7 +2337,9 @@
 			"gameText": "des \"Das wird man doch wohl mal sagen dürfen\"",
 			"id": "76022",
 			"includesPlayerName": false,
-			"linkedPrompts": "76021",
+			"linkedPrompts": [
+				"76021"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1922,7 +2348,9 @@
 			"gameText": "der 1990er",
 			"id": "76024",
 			"includesPlayerName": false,
-			"linkedPrompts": "76023",
+			"linkedPrompts": [
+				"76023"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1931,7 +2359,9 @@
 			"gameText": "der Quasselstrippen",
 			"id": "76026",
 			"includesPlayerName": false,
-			"linkedPrompts": "76025",
+			"linkedPrompts": [
+				"76025"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1940,7 +2370,9 @@
 			"gameText": "der schlechten Sänger",
 			"id": "76028",
 			"includesPlayerName": false,
-			"linkedPrompts": "76027",
+			"linkedPrompts": [
+				"76027"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1949,7 +2381,9 @@
 			"gameText": "der kurzen Aufmerksamkeitsspanne",
 			"id": "76030",
 			"includesPlayerName": false,
-			"linkedPrompts": "76029",
+			"linkedPrompts": [
+				"76029"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1958,7 +2392,9 @@
 			"gameText": "der Wolfeltern",
 			"id": "76032",
 			"includesPlayerName": false,
-			"linkedPrompts": "76031",
+			"linkedPrompts": [
+				"76031"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1967,7 +2403,9 @@
 			"gameText": "der Überraschung",
 			"id": "76034",
 			"includesPlayerName": false,
-			"linkedPrompts": "76033",
+			"linkedPrompts": [
+				"76033"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1976,7 +2414,9 @@
 			"gameText": "der Friedhofs",
 			"id": "76097",
 			"includesPlayerName": false,
-			"linkedPrompts": "76096",
+			"linkedPrompts": [
+				"76096"
+			],
 			"us": false,
 			"x": true
 		},
@@ -1985,7 +2425,9 @@
 			"gameText": "des Unangenehmen",
 			"id": "76099",
 			"includesPlayerName": false,
-			"linkedPrompts": "76098",
+			"linkedPrompts": [
+				"76098"
+			],
 			"us": false,
 			"x": false
 		},
@@ -1994,7 +2436,9 @@
 			"gameText": "der schlechten Einstellung",
 			"id": "76101",
 			"includesPlayerName": false,
-			"linkedPrompts": "76100",
+			"linkedPrompts": [
+				"76100"
+			],
 			"us": false,
 			"x": true
 		}
