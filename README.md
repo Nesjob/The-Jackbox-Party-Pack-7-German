@@ -1,6 +1,6 @@
 ***Quiplash 3***
 -
-Translation by
+Translation by Rocket55
 
 Synchro by
 
