@@ -73,18 +73,6 @@
    "x": false
   },
   {
-   "id": "113",
-   "includesPlayerName": false,
-   "prompt": "Das Schlimmste, was man bei einer Autopsie sagen kann",
-   "safetyQuips": [
-    "Dort ist mein Sandwich!",
-    "Dahin geht also die Lunge!",
-    "Wenn er vorher nicht tot war, dann ist er es jetzt."
-   ],
-   "us": false,
-   "x": false
-  },
-  {
    "id": "116",
    "includesPlayerName": false,
    "prompt": "Ihr könnt eine Tragödie erwarten, wenn der Tarotleser die Karte umdreht, die <BLANK> darstellt",
@@ -214,17 +202,6 @@
    ],
    "us": true,
    "x": true
-  },
-  {
-   "id": "144",
-   "includesPlayerName": false,
-   "prompt": "Welche Falle war ein wenig zu streng für den endgültigen Schnitt von <i>Kevin - Allein zu Haus</i>?",
-   "safetyQuips": [
-    "Wäscheleine roter Rover",
-    "Marathon-Musiksessel"
-   ],
-   "us": true,
-   "x": false
   },
   {
    "id": "155",
@@ -438,18 +415,6 @@
     "Besprechung anderer Filmkritik-Podcasts",
     "sowohl wahre als auch falsche Verbrechen",
     "feministische Geisterjäger"
-   ],
-   "us": false,
-   "x": false
-  },
-  {
-   "id": "201",
-   "includesPlayerName": false,
-   "prompt": "“Schatz, war es nicht unheimlich beunruhigend, wie der Babysitter <BLANK>?”",
-   "safetyQuips": [
-    "unser Baby gestohlen hat",
-    "einen besseren Job gemacht hat als wir",
-    "mit zwei Sätzen von Augenlidern blinzelte"
    ],
    "us": false,
    "x": false
@@ -676,17 +641,6 @@
     "auf der Toilette kotzen",
     "am Cross-Dressing",
     "schüchtern gegenüber Hausangestellten"
-   ],
-   "us": false,
-   "x": false
-  },
-  {
-   "id": "285",
-   "includesPlayerName": false,
-   "prompt": "Ein schrecklicher Song, der während des <i>In Memoriam</i>-Segments einer Preisverleihungsshow gespielt wird",
-   "safetyQuips": [
-    "Geburtstagslied",
-    "Dead Man's Curve"
    ],
    "us": false,
    "x": false
@@ -1731,18 +1685,6 @@
    "x": false
   },
   {
-   "id": "68058",
-   "includesPlayerName": false,
-   "prompt": "Ein unerwarteter Vorteil des Pinkelns in die Hose",
-   "safetyQuips": [
-    "etwas Zeit für sich selbst",
-    "in die Lieblingsshorts wechseln können",
-    "sich an den Spargel erinnern, den man gestern Abend gegessen haben"
-   ],
-   "us": false,
-   "x": false
-  },
-  {
    "id": "68059",
    "includesPlayerName": false,
    "prompt": "Eine sanftere Art, “niedrige Spermienzahl” zu sagen",
@@ -2012,17 +1954,6 @@
     "Big Putter",
     "Notorischer G.O.L.F.",
     "Daddy Long Drive"
-   ],
-   "us": false,
-   "x": false
-  },
-  {
-   "id": "68128",
-   "includesPlayerName": false,
-   "prompt": "In fünfzig Jahren werden die Altersheime voll von <BLANK> sein",
-   "safetyQuips": [
-    "schlechten Yelp-Rezensionen",
-    "Ironie"
    ],
    "us": false,
    "x": false
@@ -2536,13 +2467,13 @@
    "x": false
   },
   {
-   "id": "68420",
+   "id": "276",
    "includesPlayerName": false,
-   "prompt": "Ein schreckliches Thema für den Debütantenball eurer Tochter",
+   "prompt": "Ich will keine Schokolade, ich will lieber <BLANK>",
    "safetyQuips": [
-    "Erinnere dich an Alamo",
-    "Sex",
-    "Rost und Kruste"
+       "nach Mallorca",
+       "Sex mit Möbelstücken",
+       "Internet schneller als 1Mbps"
    ],
    "us": false,
    "x": true
@@ -3340,17 +3271,16 @@
    "x": true
   },
   {
-   "id": "68743",
-   "includesPlayerName": false,
-   "prompt": "Wenn ein Mann dieses Wort benutzt, um ein Pferd zu beschreiben, sollte man kein Pferd von ihm kaufen",
-   "safetyQuips": [
-    "tropfend",
-    "Halbkuh",
-    "berauscht"
-   ],
-   "us": false,
-   "x": false
-  },
+    "id": "69867",
+    "includesPlayerName": false,
+    "prompt": "Ernsthafte Frage: Wer ist ein guter Junge? Wer ist ein guter Junge??",
+    "safetyQuips": [
+     "Ich! Ich, ich, ich!",
+     "Mein/e BFF"
+    ],
+    "us": false,
+    "x": false
+   }, 
   {
    "id": "68752",
    "includesPlayerName": false,
@@ -3398,18 +3328,6 @@
    ],
    "us": false,
    "x": true
-  },
-  {
-   "id": "68801",
-   "includesPlayerName": false,
-   "prompt": "Eine absolut fabelhafte Art zu sterben",
-   "safetyQuips": [
-    "durch Schokolade",
-    "Ertrunken, aber in einem süßen Bikini",
-    "Von einem voll beladenen SUV angefahren"
-   ],
-   "us": false,
-   "x": false
   },
   {
    "id": "68802",
@@ -3500,9 +3418,9 @@
    "includesPlayerName": false,
    "prompt": "Hast du gesehen, dass es einen Ausverkauf für das Off-Off-Markenparfüm <BLANK> gibt?",
    "safetyQuips": [
-    ""Chanel No. 31"",
-    ""Eau de Bidet"",
-    ""Stained Linen""
+    "\"Chanel No. 31\"",
+    "\"Eau de Bidet\"",
+    "\"Stained Linen\""
    ],
    "us": false,
    "x": false
@@ -3834,8 +3752,7 @@
    "prompt": "Die örtliche Bibliothek möchte eure Spende für dieses Buch nicht",
    "safetyQuips": [
     "Kenneths halbgare Ideen über den Sozialismus",
-    "My Little Pony Fan Fiction von 2003",
-    null
+    "My Little Pony Fan Fiction von 2003"
    ],
    "us": false,
    "x": false
