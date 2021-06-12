@@ -28,8 +28,8 @@
             "PAUSE_PAUSED": "PAUSIERT",
             "PAUSE_ARE_YOU_SURE": "MÖCHTEST DU DAS SPIEL VERLASSEN?",
             "PAUSE_PROGRESS_LOST": "Jeglicher Vortschritt geht dabei verloren.",
-            "PAUSE_YES": "AUSGANG",
-            "PAUSE_NO": "WEITERMACHEN",
+            "PAUSE_YES": "BEENDEN",
+            "PAUSE_NO": "ZURÜCK",
             "CHOOSE_ON_DEVICE": "Wähle auf deinem Gerät aus"
         },
         "fr": {},
