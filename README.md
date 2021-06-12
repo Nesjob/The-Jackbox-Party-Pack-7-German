@@ -20,7 +20,7 @@ Synchro by
 -
 Translation by El Alex
 
-Synchro by
+Synchro by [SteffoSpieler](https://github.com/SteffoSpieler)
 
 ***Blather 'Round***
 -
