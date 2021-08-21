@@ -1,0 +1,40 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "We've just found the internet.",
+        "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "ROOM_DESTROYED": "We're sorry, a network error occurred and your room was destroyed.<br />Please check that your internet connection is working properly.",
+        "SOCKET_DISCONNECTED ": "We're sorry, we've lost your connection to the Jackbox Games servers.",
+        "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "USER_DISCONNECT": "We're sorry, the server has disconnected you. Please try again.",
+        "USER_ACCESS_DENIED": "We're sorry, we can't proceed.",
+        "START_PRIVILEGE_ERROR": "We're sorry, we can't proceed.",
+        "TROPHY_PREPARE_ERROR": "We're sorry, we can't proceed.",
+        "SAVE_PREPARE_FAIL": "We're sorry, we can't proceed.",
+        "LICENSE_ERROR": "We're sorry, we lost the license for this content!",
+        "LOST_LICENSE": "We're sorry, we lost the license for this content!",
+        "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
+        "TWITCH_PRIME_ERROR": "We're sorry, we couldn't validate your Twitch license.",
+        "LOST_DLC": "We're sorry, the license for your DLC could not be found. Returning you to the menu...",
+        "START": "START",
+        "SKIP": "ÜBERSPRINGEN",
+        "LOADING": "LADE...",
+        "SWITCH_USER": "NUTZER WECHSELN",
+        "LEGAL": "Erstellt & Entwickelt von Jackbox Games, Inc. Game and Software © 2020 Jackbox Games, Inc. Alle Rechte vorbehalten. Jackbox Games, das Jack head logo, und die Jackbox Games logo sind eingetragene Warenzeichen von Jackbox Games, Inc. Quiplash 3, The Devils and the Details, Champ’d Up, Talking Points, Blather ’Round, and Party Pack sind Warenzeichen von Jackbox Games, Inc. Alle anderen Marken und Logos sind Eigentum ihrer jeweiligen Inhaber.",
+        "LEGAL_CRIWARE": "Unterstützt von \"CRIWARE\". CRIWARE ist ein Warenzeichen von CRI Middleware Co., Ltd.",
+        "LEGAL_FMOD": "Dieses Produkt nutzt FMOD Sound System von Firelight Technologies",
+        "PAUSE_PAUSED": "PAUSIERT",
+        "PAUSE_ARE_YOU_SURE": "MÖCHTEST DU DAS SPIEL BEENDEN?",
+        "PAUSE_PROGRESS_LOST": "Der aktuelle Fortschritt geht verloren.",
+        "PAUSE_YES": "BEENDEN",
+        "PAUSE_NO": "FORTFAHREN",
+        "CHOOSE_ON_DEVICE": "Wähle auf deinem Gerät"
+    },
+    "fr": {},
+    "it": {},
+    "de": {},
+    "es": {}
+}
+}
