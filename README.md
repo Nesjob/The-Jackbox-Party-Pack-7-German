@@ -31,6 +31,7 @@ Synchro by
 Translation by El Alex
 
 Synchro by [SteffoSpieler](https://github.com/SteffoSpieler)
+Synchro by Lara Schmidt
 
 
 ***Blather 'Round***
