@@ -39,7 +39,7 @@
   {
    "id": "70220",
    "includesPlayerName": false,
-   "prompt": "Die drei schlimmsten Halloween-Kostüme zum Selbermachen “sexy”",
+   "prompt": "Die drei schlimmsten Halloween-Kostüme zum selbermachen",
    "safetyQuips": [
     "sexy Pickel|sexy Regenwurm|sexy Ohrenschmalz",
     "sexy Hummer|sexy Verstopfung|sexy verdorbene Milch",
@@ -63,7 +63,7 @@
   {
    "id": "70250",
    "includesPlayerName": false,
-   "prompt": "Wie Wut oder Verleugnung sind die drei Phasen der Trauer, die von Kübler-Ross nicht erwähnt wurden",
+   "prompt": "Drei geheime Phasen der Trauer im Modell von Kübler-Ross",
    "safetyQuips": [
     "Kuchen essen|Eis essen|Eiscreme Torte essen",
     "Glücksspiel|Bergsteigen|Videospiele anschreien",
@@ -75,7 +75,7 @@
   {
    "id": "70251",
    "includesPlayerName": false,
-   "prompt": "Die drei Dinge, die ihr sagen könnt, um eine angespannte Geiselsituation zu entschärfen",
+   "prompt": "Die drei Dinge, die ihr sagen könnt, um eine angespannte Geiselsituation zu deeskalieren",
    "safetyQuips": [
     "aber ist das Ihre Karte?|Nein, wirklich. Schau|Ich werde die ganze Woche hier sein",
     "Klopf, Klopf|störende Kuh|muuh!",
@@ -87,7 +87,7 @@
   {
    "id": "70281",
    "includesPlayerName": false,
-   "prompt": "Die drei Dinge, die ihr tun müsst, um ein guter Hund zu sein... so ein guter Hund",
+   "prompt": "Die drei Dinge, die ihr tun müsst, um ein guter Hund zu sein...",
    "safetyQuips": [
     "aufstehen|umkippen|Verbrechen aufklären",
     "einen Stock holen|einen Ball holen|verhindern etwas holen zu müssen",
@@ -111,7 +111,7 @@
   {
    "id": "70283",
    "includesPlayerName": false,
-   "prompt": "Die 3 Grundfertigkeiten eines erfolgreichen Fast-Food-Franchises ",
+   "prompt": "Die 3 Grundfertigkeiten eines erfolgreichen Fast-Food-Franchises",
    "safetyQuips": [
     "genussvoll|eine Ranch|rotes Tomatenmark ",
     "reichhaltiger Geschmack|schnelle Bedienung|zufällige Umarmungen",
@@ -243,7 +243,7 @@
   {
    "id": "70408",
    "includesPlayerName": false,
-   "prompt": "Die drei Spitznamen, die sich jeder Verbindungsbruder zu geben versucht",
+   "prompt": "Die drei Spitznamen, die sich jeder Student zu geben versucht",
    "safetyQuips": [
     "Crosby|Stills|Nash",
     "Big Dog|Cool Cat|Mean Rabbit",

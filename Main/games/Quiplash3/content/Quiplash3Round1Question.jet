@@ -303,7 +303,7 @@
   {
    "id": "21",
    "includesPlayerName": false,
-   "prompt": "Was der US Presidänt anstatt von Schafen zählt",
+   "prompt": "Was der US Präsident anstatt von Schafen zählt",
    "safetyQuips": [
     "Ölfässer",
     "Selfies",
@@ -466,7 +466,7 @@
   {
    "id": "263",
    "includesPlayerName": false,
-   "prompt": "Ein eindeutiges Zeichen, das du in einem Albtraum gefangen bist",
+   "prompt": "Ein eindeutiges Zeichen, dass du in einem Albtraum gefangen bist",
    "safetyQuips": [
     "Die Zähne fallen weiter aus",
     "Du verlierst immer wieder die Fähigkeit zu fliegen",
@@ -529,7 +529,7 @@
    "prompt": "Ein Kommentar der NIEMALS im Internet gebracht wurde ",
    "safetyQuips": [
     "Ich stimme mit allem in diesen Post zu",
-    "Ich bin froh, das ich mich geirrt  habe!",
+    "Ich bin froh, dass ich mich geirrt  habe!",
     "Ich habe keine Meinung. "
    ],
    "us": false,
@@ -1928,7 +1928,7 @@
   {
    "id": "68369",
    "includesPlayerName": false,
-   "prompt": "Die beste Reaktion auf “Ich weiß, das du es bist, aber was bin ich!?”",
+   "prompt": "Die beste Reaktion auf “Ich weiß, dass du es bist, aber was bin ich!?”",
    "safetyQuips": [
     "eiskaltes Schweigen",
     "kurz vor dem Schlag",
@@ -1976,7 +1976,7 @@
   {
    "id": "68407",
    "includesPlayerName": false,
-   "prompt": "Ein klares Zeichen, das du einen Grizzly Bär datest",
+   "prompt": "Ein klares Zeichen, dass du einen Grizzly Bär datest",
    "safetyQuips": [
     "Pelz in der Dusche",
     "Kratzspuren an der Haustür",
@@ -2012,7 +2012,7 @@
   {
    "id": "68430",
    "includesPlayerName": false,
-   "prompt": "Das einfachste Vergnügen, das der Mensch kennt",
+   "prompt": "Das einfachste Vergnügen, dass der Mensch kennt",
    "safetyQuips": [
     "Grillen in Leinenshorts",
     "Schwimmen in Pudding",
@@ -2072,7 +2072,7 @@
   {
    "id": "68458",
    "includesPlayerName": false,
-   "prompt": "Wie du Hosen nennst, wenn du willst, das jeder denkt das du lustig bist",
+   "prompt": "Wie du Hosen nennst, wenn du willst, dass jeder denkt das du lustig bist",
    "safetyQuips": [
     "Beinlinge",
     "HOSEN!",
@@ -2259,7 +2259,7 @@
   {
    "id": "68523",
    "includesPlayerName": false,
-   "prompt": "Hunde sind so leichtgläubig, das sie tatsächlich <BLANK> glauben",
+   "prompt": "Hunde sind so leichtgläubig, dass sie tatsächlich <BLANK> glauben",
    "safetyQuips": [
     "an einen Katzengott",
     "die meisten Werbeaussagen"
