@@ -29,7 +29,7 @@
         "PAUSE_ARE_YOU_SURE": "MÖCHTEST DU DAS SPIEL BEENDEN?",
         "PAUSE_PROGRESS_LOST": "Der aktuelle Fortschritt geht verloren.",
         "PAUSE_YES": "BEENDEN",
-        "PAUSE_NO": "FORTFAHREN",
+        "PAUSE_NO": "WEITER",
         "CHOOSE_ON_DEVICE": "Wähle auf deinem Gerät"
     },
     "fr": {},
