@@ -455,7 +455,7 @@
                 "CONTROLLER_UGC_VIP_LOCKED": "Episode ist gesperrt, während %s entscheidet, wie es weitergeht",
                 "CONTROLLER_UGC_VIP_TITLE": "Warte auf %s um die Episode zu benennen. Mach bei der Person mal Druck!",
                 "CONTROLLER_UGC_VIP_WAITING": "Warte auf eine Entscheidung von %s",
-                "CONTROLLER_UGC_VIP_EPISODES_WARNING": "Hinweis: Inhalte von Nutzern wurden nicht vorher üperprüft",
+                "CONTROLLER_UGC_VIP_EPISODES_WARNING": "Hinweis: Inhalte von Nutzern wurden nicht vorher überprüft",
                 "CONTROLLER_UGC_VIP_EPISODES_LOAD": "Lade eine Episode mit einer ID:",
                 "CONTROLLER_UGC_VIP_EPISODES_SELECT": "Oder wähle eine Episode:",
                 "CONTROLLER_UGC_VIP_EPISODES_BACK": "Zurück",
