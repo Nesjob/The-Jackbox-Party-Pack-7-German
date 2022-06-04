@@ -671,6 +671,7 @@
    "includesPlayerName": false,
    "prompt": "Ein guter Weg um bei der Comic Messe herauszustechen ist sich wie <BLANK> zu verkleiden",
    "safetyQuips": [
+    "ein Buffet ohne Schlange",
     "ein normaler Mensch",
     "jemand der wegen Nacktheit rausgeworfen wird"
    ],
@@ -789,6 +790,7 @@
    "includesPlayerName": false,
    "prompt": "“Ein guter Mann ist schwer <BLANK>”",
    "safetyQuips": [
+    "mit Socken zu beeindrucken",
     "in ein Viertel zu falten",
     "in vollen Theatern zu finden"
    ],
@@ -860,7 +862,8 @@
    "prompt": "Das schlimmste was man als Konfetti benutzen könnte",
    "safetyQuips": [
     "BIENEEEN!",
-    "Eine Millionen Büroklammern"
+    "Eine Millionen Büroklammern",
+    "Der Fahrzeugschein"
    ],
    "us": false,
    "x": false
@@ -1767,18 +1770,6 @@
     "meine Großtante",
     "eine Cartoon-Zigarette",
     "mein Yogalehrer"
-   ],
-   "us": false,
-   "x": false
-  },
-  {
-   "id": "68180",
-   "includesPlayerName": false,
-   "prompt": "Das Gefängnis wäre echt spaßig wenn es <BLANK> hätte",
-   "safetyQuips": [
-    "Unterhaltungsmusik",
-    "eine Achterbahn",
-    "wöchentliche Backwettbewerbe"
    ],
    "us": false,
    "x": false
@@ -3017,18 +3008,6 @@
     "x": false
    },
    {
-    "id": "68680",
-    "includesPlayerName": false,
-    "prompt": "Verständlicherweise will niemand das Waisenkind mit dem Namen <BLANK> adoptieren",
-    "safetyQuips": [
-     "Störenfried",
-     "Idiot",
-     "Opfer"
-    ],
-    "us": false,
-    "x": false
-   },
-   {
     "id": "68710",
     "includesPlayerName": false,
     "prompt": "Ein Deoduft, der von einem Hund entworfen wurde",
@@ -3308,17 +3287,6 @@
     "safetyQuips": [
      "Aufmerksamkeit",
      "kostenlose Süßigkeiten"
-    ],
-    "us": false,
-    "x": false
-   },
-   {
-    "id": "68888",
-    "includesPlayerName": false,
-    "prompt": "Es gibt nur eine Person, der du in eine dunkle Gasse folgen solltest und das ist <BLANK>",
-    "safetyQuips": [
-     "jemand mit Snacks",
-     "ein Feuerwerksverkäufer"
     ],
     "us": false,
     "x": false
@@ -3777,17 +3745,6 @@
     "safetyQuips": [
      "Ich bin schon Profi geworden",
      "Ich bin allergisch gegen Bälle"
-    ],
-    "us": true,
-    "x": false
-   },
-   {
-    "id": "69082",
-    "includesPlayerName": false,
-    "prompt": "Nachdem ihr Mann gestorben ist, mit wem ist Mrs. Butterworth schließlich zusammen gekommen?",
-    "safetyQuips": [
-     "Mr. Worthy Butter",
-     "Jack Flap"
     ],
     "us": true,
     "x": false
@@ -5103,18 +5060,6 @@
      "Sicherheitskamerabildern",
      "Top Gear",
      "der Rückseite des Kirchenblattes"
-    ],
-    "us": false,
-    "x": false
-   },
-   {
-    "id": "90",
-    "includesPlayerName": false,
-    "prompt": "Es wäre tatsächlich chillig, in einer Lawine von <BLANK> zu sterben",
-    "safetyQuips": [
-     "Welpen",
-     "Pokemon-Karten der ersten Auflage",
-     "Luftgitarren"
     ],
     "us": false,
     "x": false

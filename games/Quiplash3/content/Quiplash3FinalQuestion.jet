@@ -469,18 +469,6 @@
    "x": false
   },
   {
-   "id": "70630",
-   "includesPlayerName": false,
-   "prompt": "Drei Dinge auf der wöchentlichen Einkaufsliste von Wladimir Putin",
-   "safetyQuips": [
-    "Eier|Milch|lokale Regierungsvertreter",
-    "zwei Flugzeuge|ein Dutzend Bomben|Ben & Jerry's Eiscreme",
-    "Kamera|Pferd|kein T-Shirt"
-   ],
-   "us": false,
-   "x": false
-  },
-  {
    "id": "70632",
    "includesPlayerName": false,
    "prompt": "Drei Dinge, die ihr NIEMALS im Badezimmer von jemandem hinterlassen solltet",
@@ -1028,18 +1016,6 @@
     "Druck|Bier|Bodenschätze",
     "Howdy!|Long Dong|Penis",
     "Hoden|Popel|Schiss"
-   ],
-   "us": false,
-   "x": false
-  },
-  {
-   "id": "71038",
-   "includesPlayerName": false,
-   "prompt": "Die drei unspektakulärsten Superkräfte wären...",
-   "safetyQuips": [
-    "Müll-Vision|Schallfürze|partielle Unsichtbarkeit",
-    "Mutter-Telekinese|leicht schweben|Koriandersensibilität",
-    "superstarke Zehen|Fähigkeit, mit Moos zu sprechen|superschneller Coupon Clipper"
    ],
    "us": false,
    "x": false
@@ -2098,18 +2074,6 @@
    "x": false
   },
   {
-   "id": "72718",
-   "includesPlayerName": false,
-   "prompt": "Drei Dinge, die ihr wirklich nicht wollt, dass eurer Arzt während einer Untersuchung sagt",
-   "safetyQuips": [
-    "ew|Was ist das für ein Ding?|Oh Gott, es hat mich gebissen",
-    "schreckliche Knochen|überall Blut|Schlimmste. Organe. aller Zeiten.",
-    "Abwarten|Durchhalten|falsches Zimmer"
-   ],
-   "us": false,
-   "x": false
-  },
-  {
    "id": "72720",
    "includesPlayerName": false,
    "prompt": "Drei Dinge, die du immer vergisst, wenn du das Haus verlässt",
@@ -2360,18 +2324,6 @@
    ],
    "us": false,
    "x": false
-  },
-  {
-   "id": "73432",
-   "includesPlayerName": false,
-   "prompt": "Bleibt positiv! Was sind drei GUTE Dinge daran, tot zu sein?",
-   "safetyQuips": [
-    "keine Miete mehr|kein Smalltalk mehr|leise Nachbarn",
-    "freie Erde|sich mit Geistern herumtreiben|keine Gespräche mehr mit den Lebenden ",
-    "keine|soziale|Medien"
-   ],
-   "us": false,
-   "x": true
   },
   {
    "id": "73433",
@@ -2794,18 +2746,6 @@
    "safetyQuips": [
     "Schornsteinstumpf|Rentierlunge|Mistelzweige",
     "Vogelschläge|geblitzt worden|undankbares Kind beißt zu"
-   ],
-   "us": false,
-   "x": false
-  },
-  {
-   "id": "74916",
-   "includesPlayerName": false,
-   "prompt": "Die drei Dinge, die du denkst, wenn dir das erste Mal ins Gesicht geschlagen wird",
-   "safetyQuips": [
-    "Au!|das tut weh|warum habe ich mit einem Känguru gekämpft?",
-    "das ist| also|Kickboxen",
-    "das tat weh|das hat wirklich weh getan|vielleicht sollte ich nicht Batman sein"
    ],
    "us": false,
    "x": false
