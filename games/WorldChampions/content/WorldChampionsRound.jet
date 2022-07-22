@@ -859,8 +859,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion der schrecklichen Mitbewohners",
-			"gameText": "der schrecklichen Mitbewohners",
+			"contest": "Der Champion des schrecklichen Mitbewohners",
+			"gameText": "des schrecklichen Mitbewohners",
 			"id": "70323",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -1723,8 +1723,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion der abgelehnten Pokemon",
-			"gameText": "der abgelehnten Pokemon",
+			"contest": "Der Champion der abgelehnten Pokémon",
+			"gameText": "der abgelehnten Pokémon",
 			"id": "74769",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
