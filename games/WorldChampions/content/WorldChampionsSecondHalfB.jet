@@ -181,8 +181,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion des unhöflich zum Server seins",
-			"gameText": "des unhöflich zum Server seins",
+			"contest": "Der Champion des unhöflich zum Kellner seins",
+			"gameText": "des unhöflich zum Kellner seins",
 			"id": "71825",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -217,8 +217,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion der Job Interviews",
-			"gameText": "der Job Interviews",
+			"contest": "Der Champion der Bewerbungsgespräche",
+			"gameText": "der Bewerbungsgespräche",
 			"id": "71844",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -640,8 +640,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion des Blutdurst",
-			"gameText": "des Blutdurst",
+			"contest": "Der Champion des Blutdursts",
+			"gameText": "des Blutdursts",
 			"id": "72334",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -1090,8 +1090,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion von Chatroulett",
-			"gameText": "von Chatroulett",
+			"contest": "Der Champion von Tinder",
+			"gameText": "von Tinder",
 			"id": "74000",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -1414,8 +1414,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion des mit dem Arm in eines Snackautomats stecken bleibens",
-			"gameText": "des mit dem Arm in eines Snackautomats stecken bleibens",
+			"contest": "Der Champion des mit dem Arm in einem Snackautomaten stecken bleibens",
+			"gameText": "des mit dem Arm in einem Snackautomaten stecken bleibens",
 			"id": "74680",
 			"includesPlayerName": false,
 			"linkedPrompts": [],

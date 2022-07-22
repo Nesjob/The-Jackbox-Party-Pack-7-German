@@ -243,8 +243,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion des Laktoseintoleranten",
-			"gameText": "des Laktoseintoleranten",
+			"contest": "Der Champion der Laktoseintoleranz",
+			"gameText": "der Laktoseintoleranz",
 			"id": "71842",
 			"includesPlayerName": false,
 			"linkedPrompts": [
@@ -694,8 +694,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion des Schöngeister",
-			"gameText": "des Schöngeister",
+			"contest": "Der Champion der Schöngeister",
+			"gameText": "der Schöngeister",
 			"id": "72275",
 			"includesPlayerName": false,
 			"linkedPrompts": [
@@ -1244,8 +1244,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion der starken Auras",
-			"gameText": "der starken Auras",
+			"contest": "Der Champion der starken Aura",
+			"gameText": "der starken Aura",
 			"id": "73916",
 			"includesPlayerName": false,
 			"linkedPrompts": [
@@ -2179,8 +2179,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion des immer auf Facebok online seins",
-			"gameText": "des immer auf Facebok online seins",
+			"contest": "Der Champion des immer auf Discord online seins",
+			"gameText": "des immer auf Discord online seins",
 			"id": "74970",
 			"includesPlayerName": false,
 			"linkedPrompts": [
@@ -2410,8 +2410,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion der Friedhofs",
-			"gameText": "der Friedhofs",
+			"contest": "Der Champion des Friedhofs",
+			"gameText": "des Friedhofs",
 			"id": "76097",
 			"includesPlayerName": false,
 			"linkedPrompts": [

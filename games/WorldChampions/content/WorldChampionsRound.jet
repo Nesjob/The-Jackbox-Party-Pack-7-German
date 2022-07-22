@@ -28,8 +28,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion des Blasens",
-			"gameText": "des Blasens",
+			"contest": "Der Champion des Versagens",
+			"gameText": "des Versagens",
 			"id": "68691",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -145,8 +145,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion des überbewertet sein",
-			"gameText": "des überbewertet sein",
+			"contest": "Der Champion des überbewertet seins",
+			"gameText": "des überbewertet seins",
 			"id": "68729",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -163,8 +163,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion der High School",
-			"gameText": "der High School",
+			"contest": "Der Champion der Gesamtschule",
+			"gameText": "der Gesamtschule",
 			"id": "68735",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -199,8 +199,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion des dreckig sein",
-			"gameText": "des dreckig sein",
+			"contest": "Der Champion des dreckig seins",
+			"gameText": "des dreckig seins",
 			"id": "68771",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -271,8 +271,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion des gesunden Spass",
-			"gameText": "des gesunden Spass",
+			"contest": "Der Champion des gesunden Spasses",
+			"gameText": "des gesunden Spasses",
 			"id": "68792",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -478,8 +478,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion des fünften Rad am Wagen",
-			"gameText": "des fünften Rad am Wagen",
+			"contest": "Der Champion des fünften Rad am Wagens",
+			"gameText": "des fünften Rad am Wagens",
 			"id": "69518",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -577,8 +577,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion des unartig sein",
-			"gameText": "des unartig sein",
+			"contest": "Der Champion des unartig seins",
+			"gameText": "des unartig seins",
 			"id": "70042",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -667,8 +667,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion des Leben am Limit",
-			"gameText": "des Leben am Limit",
+			"contest": "Der Champion des Leben am Limits",
+			"gameText": "des Leben am Limits",
 			"id": "70130",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -676,8 +676,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion des Hupsala",
-			"gameText": "des Hupsala",
+			"contest": "Der Champion des Hupsalas",
+			"gameText": "des Hupsalas",
 			"id": "70135",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -805,15 +805,6 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion der Chaos",
-			"gameText": "der Chaos",
-			"id": "70294",
-			"includesPlayerName": false,
-			"linkedPrompts": [],
-			"us": false,
-			"x": false
-		},
-		{
 			"contest": "Der Champion des Single-Daseins",
 			"gameText": "des Single-Daseins",
 			"id": "70295",
@@ -868,8 +859,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion der schrecklichen Mitbewohner",
-			"gameText": "der schrecklichen Mitbewohner",
+			"contest": "Der Champion der schrecklichen Mitbewohners",
+			"gameText": "der schrecklichen Mitbewohners",
 			"id": "70323",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -877,8 +868,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion des Heavy Metal",
-			"gameText": "des Heavy Metal",
+			"contest": "Der Champion des Heavy Metals",
+			"gameText": "des Heavy Metals",
 			"id": "70372",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -904,8 +895,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion des eine schwere Zeit durchmachen",
-			"gameText": "des eine schwere Zeit durchmachen",
+			"contest": "Der Champion des eine schwere Zeit durchmachens",
+			"gameText": "des eine schwere Zeit durchmachens",
 			"id": "70458",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -922,8 +913,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion des Grabbeltisch",
-			"gameText": "des Grabbeltisch",
+			"contest": "Der Champion des Grabbeltisches",
+			"gameText": "des Grabbeltisches",
 			"id": "70483",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -1048,8 +1039,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion des Funk",
-			"gameText": "des Funk",
+			"contest": "Der Champion des Funks",
+			"gameText": "des Funks",
 			"id": "70641",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -1408,8 +1399,8 @@
 			"x": false
 		},
 		{
-			"contest": "Der Champion des Leben am Limit",
-			"gameText": "des Leben am Limit",
+			"contest": "Der Champion des Leben am Limits",
+			"gameText": "des Leben am Limits",
 			"id": "71260",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -1426,8 +1417,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion der Entdeckung, dass er die ganze zeit wunderschön war",
-			"gameText": "der Entdeckung, dass er die ganze zeit wunderschön war",
+			"contest": "Der Champion der Entdeckung, dass er die ganze Zeit wunderschön war",
+			"gameText": "der Entdeckung, dass er die ganze Zeit wunderschön war",
 			"id": "71264",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -1633,8 +1624,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion zur Musik abgehens",
-			"gameText": "zur Musik abgehens",
+			"contest": "Der Champion des zur Musik abgehens",
+			"gameText": "des zur Musik abgehens",
 			"id": "71655",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
@@ -1705,8 +1696,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion des in der öffentlichkeit von Kollegen ignoriert werdens",
-			"gameText": "des in der öffentlichkeit von Kollegen ignoriert werdens",
+			"contest": "Der Champion des in der Öffentlichkeit von Kollegen ignoriert werdens",
+			"gameText": "des in der Öffentlichkeit von Kollegen ignoriert werdens",
 			"id": "71792",
 			"includesPlayerName": false,
 			"linkedPrompts": [],
