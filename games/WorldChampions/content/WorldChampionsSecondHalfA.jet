@@ -507,8 +507,8 @@
 			"x": true
 		},
 		{
-			"contest": "Der Champion des Fittnessstudios",
-			"gameText": "des Fittnessstudios",
+			"contest": "Der Champion des Fitnessstudios",
+			"gameText": "des Fitnessstudios",
 			"id": "72016",
 			"includesPlayerName": false,
 			"linkedPrompts": [
