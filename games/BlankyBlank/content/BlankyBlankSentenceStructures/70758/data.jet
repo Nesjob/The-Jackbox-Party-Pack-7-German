@@ -1,0 +1,14 @@
+{
+ "fields": [
+  {
+   "t": "S",
+   "v": "story",
+   "n": "Category"
+  },
+  {
+   "t": "S",
+   "v": "Eine Geschichte über <article-1> <story-adjective-simple> <story-noun-simple>.|Und noch <story-adjective-simple> <story-noun-simple-s2>.|Krass! <story-adjective-complex> <story-noun-complex>.|Der Held <story-verb-simple> <article-2> <story-noun-complex>.|Schließlich gibt es <story-adjective-complex> <story-noun-complex>.|Danach, <article-2> <story-noun-complex> <story-verb-ending>.",
+   "n": "Structures"
+  }
+ ]
+}

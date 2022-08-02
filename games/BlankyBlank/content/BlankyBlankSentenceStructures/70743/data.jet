@@ -1,0 +1,14 @@
+{
+ "fields": [
+  {
+   "t": "S",
+   "v": "person",
+   "n": "Category"
+  },
+  {
+   "t": "S",
+   "v": "Die Figur ist <article-1> <person-adjective-simple> <person-noun-simple>.|Die Figur <person-verb-simple> <article-2> <person-noun-simple-s2>.|<person-pronoun-1> so <person-adjective-complex>!|Bekannt für <person-adjective-complex> <person-noun-complex>.|Und die Figur <person-verb-simple> <article-2> <person-noun-complex>.",
+   "n": "Structures"
+  }
+ ]
+}

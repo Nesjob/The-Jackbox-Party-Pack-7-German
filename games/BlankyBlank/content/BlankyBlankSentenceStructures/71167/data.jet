@@ -1,0 +1,14 @@
+{
+ "fields": [
+  {
+   "t": "S",
+   "v": "response",
+   "n": "Category"
+  },
+  {
+   "t": "S",
+   "v": "<response-sentence> <PLAYERGUESS>",
+   "n": "Structures"
+  }
+ ]
+}
